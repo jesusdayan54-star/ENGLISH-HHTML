@@ -1,39 +1,47 @@
-# A2 · Vocabulario 02 — Trabajo (Work)
+# A2 · Vocabulario 03 — Salud y Cuerpo (Health & Body)
 
-## Vocabulario básico
-
-| Inglés | Español |
-|---|---|
-| Job / Occupation | Empleo / Ocupación |
-| Boss | Jefe/a |
-| Colleague / Coworker | Colega / Compañero de trabajo |
-| Salary | Salario |
-| Interview | Entrevista |
-| Résumé / CV | Currículum |
-| Meeting | Reunión |
-| Deadline | Fecha límite |
-
-## Profesiones comunes
+## Partes del cuerpo
 
 | Inglés | Español |
 |---|---|
-| Engineer | Ingeniero/a |
-| Teacher | Profesor/a |
-| Accountant | Contador/a |
-| Lawyer | Abogado/a |
-| Nurse | Enfermero/a |
+| Head | Cabeza |
+| Arm | Brazo |
+| Leg | Pierna |
+| Stomach | Estómago |
+| Back | Espalda |
+| Throat | Garganta |
+
+## Síntomas y enfermedad
+
+| Inglés | Español |
+|---|---|
+| Headache | Dolor de cabeza |
+| Fever | Fiebre |
+| Cough | Tos |
+| Sore throat | Dolor de garganta |
+| I feel sick | Me siento mal |
+| I have a cold | Tengo un resfriado |
+
+## En el consultorio
+
+| Inglés | Español |
+|---|---|
+| Doctor's appointment | Cita médica |
+| Prescription | Receta médica |
+| Medicine | Medicina |
+| Pharmacy | Farmacia |
 
 ## Frases útiles
 
-> *What do you do for a living?* (¿A qué te dedicas?)
-> *I work as a...* (Trabajo como...)
-> *I have a meeting at 3 PM.* (Tengo una reunión a las 3 PM.)
+> *What's wrong?* (¿Qué te pasa?)
+> *I have a headache.* (Tengo dolor de cabeza.)
+> *You should see a doctor.* (Deberías ver a un médico.)
 
 ## Consejos de pronunciación
 
-- **Résumé** /ˈrɛzʊmeɪ/ (inglés americano).
-- **Colleague** /ˈkɒliɡ/.
+- **Stomach** /ˈstʌmək/ — la "ch" suena como "k".
+- **Cough** /kɒf/ — la "gh" suena como "f".
 
 ## Práctica
 
-Describe tu trabajo (o el que te gustaría tener) en 3 oraciones.
+Describe cómo te sientes usando 3 síntomas.

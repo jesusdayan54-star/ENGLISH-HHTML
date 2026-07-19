@@ -1,39 +1,45 @@
-# A2 · Vocabulario 01 — Viajes (Travel)
+# A2 · Vocabulario 05 — Emociones (Emotions)
 
-## En el aeropuerto
-
-| Inglés | Español |
-|---|---|
-| Airport | Aeropuerto |
-| Flight | Vuelo |
-| Boarding pass | Tarjeta de embarque |
-| Luggage / Baggage | Equipaje |
-| Passport | Pasaporte |
-| Departure | Salida |
-| Arrival | Llegada |
-| Delayed | Retrasado |
-
-## En el hotel
+## Emociones básicas
 
 | Inglés | Español |
 |---|---|
-| Reservation | Reservación |
-| Check-in / Check-out | Registro de entrada/salida |
-| Room service | Servicio a la habitación |
-| Receptionist | Recepcionista |
+| Happy | Feliz |
+| Sad | Triste |
+| Angry | Enojado |
+| Excited | Emocionado |
+| Nervous | Nervioso |
+| Scared / Afraid | Asustado |
+| Surprised | Sorprendido |
+| Bored | Aburrido |
+| Confused | Confundido |
+| Relaxed | Relajado |
+
+## Expresando emociones
+
+> *I feel happy today.* (Me siento feliz hoy.)
+> *She is nervous about the exam.* (Ella está nerviosa por el examen.)
+> *Why are you sad?* (¿Por qué estás triste?)
+
+## Adjetivos -ed vs -ing (repaso importante)
+
+| -ed (cómo me siento) | -ing (qué causa el sentimiento) |
+|---|---|
+| I am bored. | This movie is boring. |
+| I am interested. | This book is interesting. |
+| I am excited. | This trip is exciting. |
 
 ## Frases útiles
 
-> *I'd like to book a room.* (Quisiera reservar una habitación.)
-> *Where is the nearest station?* (¿Dónde está la estación más cercana?)
-> *How much is a ticket to...?* (¿Cuánto cuesta un boleto a...?)
-> *Is there Wi-Fi here?* (¿Hay Wi-Fi aquí?)
+> *What's wrong?* (¿Qué pasa?)
+> *I'm feeling a bit down.* (Me siento un poco deprimido.)
+> *That made me really happy.* (Eso me hizo muy feliz.)
 
 ## Consejos de pronunciación
 
-- **Luggage** /ˈlʌɡɪdʒ/ — no confundir con "language".
-- **Reservation** /ˌrɛzərˈveɪʃən/.
+- **Nervous** /ˈnɜrvəs/.
+- **Anxious** /ˈæŋkʃəs/ (ansioso, sinónimo de nervous en algunos contextos).
 
 ## Práctica
 
-Escribe un diálogo pidiendo información en un aeropuerto.
+Describe cómo te sientes hoy y por qué, usando 3 emociones distintas.

@@ -1,56 +1,170 @@
-# C1 · Gramática 07 — Oraciones Hendidas (Cleft Sentences)
+# C1 · Gramática 05 — Conectores Avanzados y Cohesión Textual
 
-> 🎯 **Objetivo:** usar estructuras que dividen una oración en dos partes para dar énfasis a un elemento específico — un recurso muy usado en discurso persuasivo y escritura elegante.
+> 🎯 **Objetivo:** lograr un discurso con **cohesión textual** de nivel nativo culto — encadenando ideas con conectores sofisticados clasificados por función, para escritura académica, ensayos y presentaciones profesionales.
 
-Las cleft sentences "parten" una oración simple para resaltar una parte específica de la información.
+La **cohesión** es lo que hace que un texto "fluya" en lugar de sonar como una lista de frases sueltas. En C1 se espera un uso preciso y variado de conectores, sin repetir siempre los mismos.
 
-## It-cleft: enfatizar un elemento
+## Las 6 familias de conectores C1
 
-📌 **Estructura**: It + is/was + [elemento enfatizado] + that/who + resto de la oración
+```mermaid
+mindmap
+  root((COHESIÓN<br/>TEXTUAL))
+    Añadir
+      moreover
+      what's more
+      on top of that
+    Contrastar
+      conversely
+      nevertheless
+    Aclarar
+      in other words
+      namely
+    Causa-efecto
+      thus
+      consequently
+    Comparar
+      likewise
+      similarly
+    Ordenar
+      to begin with
+      in conclusion
+```
 
-> Oración simple: *John broke the window.*
-> Enfatizando el sujeto: ***It was John** who broke the window.*
-> Enfatizando el objeto: ***It was the window** that John broke.*
+---
+
+## 5.1 Conectores para Añadir Información
+
+| Conector | Significado |
+|---|---|
+| **Moreover** | Además, es más |
+| **Furthermore** | Además, asimismo |
+| **Not only that, but…** | No solo eso, sino que… |
+| **What's more** | Lo que es más |
+| **On top of that** | Encima de eso |
+| **In addition (to)** | Además (de) |
+
+📌 *She is intelligent. **Moreover**, she is hardworking.*
+
+---
+
+## 5.2 Conectores para Contrastar Ideas
+
+| Conector | Significado |
+|---|---|
+| **However** | Sin embargo |
+| **Nevertheless** | No obstante |
+| **On the other hand** | Por otro lado |
+| **Conversely** | A la inversa |
+| **Whereas** | Mientras que |
+| **In contrast** | En contraste |
+
+📌 *I like tea. **However**, my sister prefers coffee.*
+
+🔸 **Matiz C1:** *conversely* introduce lo **opuesto exacto**; *however* solo señala contraste general. Elegir bien demuestra precisión.
+
+---
+
+## 5.3 Conectores para Explicar o Aclarar
+
+| Conector | Significado |
+|---|---|
+| **In other words** | En otras palabras |
+| **That is to say** | Es decir |
+| **Namely** | A saber |
+| **For instance** | Por ejemplo |
+| **To illustrate** | Para ilustrar |
+| **To put it simply** | Dicho de forma simple |
+
+📌 *He is an introvert. **In other words**, he prefers being alone to being in big groups.*
+
+---
+
+## 5.4 Conectores de Causa y Efecto
+
+| Conector | Significado |
+|---|---|
+| **Therefore** | Por lo tanto |
+| **Thus** | Así, por lo tanto (formal) |
+| **As a result** | Como resultado |
+| **Consequently** | En consecuencia |
+| **Due to** | Debido a |
+| **Hence** | De ahí que (muy formal) |
+
+📌 *She didn't study. **As a result**, she failed the exam.*
+
+🔸 **Registro:** *thus* y *hence* son de registro alto (ensayos, artículos); *so* es el equivalente coloquial.
+
+---
+
+## 5.5 Conectores para Comparar
+
+| Conector | Significado |
+|---|---|
+| **Similarly** | De manera similar |
+| **Likewise** | Del mismo modo |
+| **In the same way** | De la misma manera |
+| **Just as / Just like** | Tal como |
+| **Compared to/with** | En comparación con |
+
+📌 *Dogs are loyal. **Similarly**, cats can be very affectionate.*
+
+---
+
+## 5.6 Conectores para Ordenar Ideas
+
+Estructuran un texto de principio a fin:
 
 ```mermaid
 flowchart LR
-    A["John broke the window<br/>(oración neutra)"] --> B["It was JOHN who broke the window<br/>(énfasis en QUIÉN)"]
-    A --> C["It was the WINDOW that John broke<br/>(énfasis en QUÉ)"]
+    A["To begin with /<br/>First of all"] --> B["Secondly /<br/>Moreover"] --> C["Furthermore"] --> D["Finally"] --> E["In conclusion"]
 ```
 
-## Wh-cleft (pseudo-cleft): con "what"
+| Conector | Función |
+|---|---|
+| **First of all / To begin with** | Introducir el primer punto |
+| **Secondly / Then** | Segundo punto |
+| **Furthermore / Moreover** | Añadir |
+| **Finally / Lastly** | Último punto |
+| **In conclusion / To sum up** | Cerrar |
 
-📌 **Estructura**: What + sujeto + verbo + is/was + [elemento enfatizado]
+📌 ***First of all**, we need to analyze the data. **Secondly**, we will create a report. **Finally**, we will present our findings.*
 
-> Oración simple: *I need more time.*
-> Con énfasis: ***What** I need **is** more time.*
+---
 
-> Oración simple: *This surprised me.*
-> Con énfasis: ***What** surprised me **was** his reaction.*
+## 5.7 Cohesión más allá de los conectores (ampliación C1)
 
-## Comparación de impacto
+La cohesión no es solo conectores. También se logra con:
 
-| Neutra | Con énfasis (it-cleft) | Con énfasis (wh-cleft) |
-|---|---|---|
-| *She loves music.* | *It's music that she loves.* | *What she loves is music.* |
-| *We need funding.* | *It's funding that we need.* | *What we need is funding.* |
+- **Referencia pronominal:** usar *it, this, that, they* para no repetir. *"The plan failed. **This** surprised everyone."*
+- **Sustitución:** *"I need a pen. Do you have **one**?"*
+- **Elipsis:** omitir lo repetido. *"She can sing and (she can) dance."*
+- **Palabras de encapsulado:** *this issue, such an approach, that argument* — resumen ideas previas.
 
-## Uso en discurso persuasivo
+🔑 Un texto C1 combina conectores + estos recursos para fluir sin repetición ni saltos.
 
-Estas estructuras son comunes en discursos, ensayos y debates porque dirigen la atención del oyente:
+---
 
-> *It is **not** the money **that** motivates her — it's the challenge.*
-> *What really matters **is** how we treat others.*
+## ✅ Resumen
 
-## Práctica
+| Función | Conectores C1 |
+|---|---|
+| Añadir | moreover, what's more, on top of that |
+| Contrastar | conversely, nevertheless, on the other hand |
+| Aclarar | in other words, namely, to illustrate |
+| Causa-efecto | thus, consequently, hence |
+| Comparar | likewise, similarly, compared to |
+| Ordenar | to begin with, finally, in conclusion |
 
-1. Convierte con it-cleft (enfatiza "Maria"): *"Maria organized the event."*
-2. Convierte con wh-cleft: *"I want peace and quiet."*
-3. Enfatiza el objeto: *"She wrote this book."* (enfatiza "this book")
+## 🏋️ Práctica
 
-<details><summary>Ver respuestas</summary>
+Elige el conector más preciso:
+1. *"He's tall; ___, his brother is short."* (opuesto exacto)
+2. *"The project was over budget. ___, it was late."* (añadir, informal-alto)
+3. *"The data is incomplete. ___, we cannot conclude yet."* (causa-efecto formal)
+4. *"To begin with... Secondly... ___."* (cierre)
 
-1. It was Maria who organized the event.
-2. What I want is peace and quiet.
-3. It was this book that she wrote.
+<details>
+<summary>Ver respuestas</summary>
+
+1. *conversely* 2. *What's more / On top of that* 3. *Thus / Therefore / Consequently* 4. *In conclusion / Finally*
 </details>

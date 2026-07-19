@@ -1,50 +1,40 @@
-# A1 · Gramática 08 — El Verbo "To Be"
+# A1 · Gramática 09 — There is / There are
 
-El verbo **to be** (ser/estar) es el más importante del inglés. Se usa para identidad, edad, estado de ánimo, profesión y ubicación.
+Se usa para decir que algo **existe** en un lugar. Equivale a "hay" en español.
 
-## Conjugación en presente
+## Regla básica
 
-| Pronombre | Forma | Contracción |
+| Estructura | Uso | Ejemplo |
 |---|---|---|
-| I | am | I'm |
-| You | are | You're |
-| He/She/It | is | He's/She's/It's |
-| We | are | We're |
-| They | are | They're |
+| **There is** | singular | There **is** a book on the table. |
+| **There are** | plural | There **are** three books. |
 
-📌 *I **am** a student.* / *She **is** happy.* / *They **are** here.*
+🔸 Forma contraída: **There's** = There is.
 
 ## Negativo y preguntas
 
 | Afirmativo | Negativo | Pregunta |
 |---|---|---|
-| I am ready. | I'm **not** ready. | **Am** I ready? |
-| He is tall. | He **isn't** tall. | **Is** he tall? |
-| They are late. | They **aren't** late. | **Are** they late? |
+| There is a park. | There **isn't** a park. | **Is there** a park? |
+| There are seats. | There **aren't** any seats. | **Are there** any seats? |
 
-## Usos principales
+⚠️ En negativo/pregunta, **some** cambia a **any**: *There are some apples* → *There aren't any apples.*
 
-1. **Identidad**: *I am Laura.*
-2. **Profesión**: *She is a nurse.*
-3. **Edad**: *I am 20 years old.*
-4. **Estado de ánimo**: *He is tired.*
-5. **Ubicación**: *We are at home.*
-6. **Clima**: *It is cold today.*
+## There is/are vs It is / They are
 
-## Consejos de pronunciación
+- **There is/are** → anuncia que algo *existe*.
+- **It is / They are** → *describe* algo ya mencionado.
 
-- **Isn't** /ˈɪzənt/ y **aren't** /ɑrnt/ suenan muy distinto — no los confundas.
-- **I'm** se pronuncia /aɪm/, casi como una sola sílaba.
+> There **is** a dog in the yard. **It is** very big.
 
 ## Práctica
 
-1. Completa: *"She ___ a teacher." / "We ___ tired." / "It ___ cold."*
-2. Convierte a negativo: *"They are ready."*
-3. Convierte a pregunta: *"He is your brother."*
+1. Describe tu habitación usando *there is/are*.
+2. Convierte a negativo: *"There are five chairs."*
+3. Pregunta: *"There is a supermarket near here."*
 
 <details><summary>Ver respuestas</summary>
 
-1. is / are / is
-2. They aren't ready.
-3. Is he your brother?
+2. There aren't five chairs.
+3. Is there a supermarket near here?
 </details>

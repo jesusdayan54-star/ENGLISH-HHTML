@@ -1,88 +1,76 @@
-# A1.16 – Vocabulario: Comida y Bebida
+# A1.05 – Números del 0 al 100
 
-Hablar de comida es esencial para restaurantes, compras y conversaciones cotidianas.
+Los números son esenciales para hablar de precios, edades, horas, direcciones y mucho más.
 
-## Frutas (Fruits)
+## Números del 0 al 20
 
-| Inglés | Español |
+| # | Inglés | # | Inglés |
+|:---:|---|:---:|---|
+| 0 | zero | 11 | eleven |
+| 1 | one | 12 | twelve |
+| 2 | two | 13 | thirteen |
+| 3 | three | 14 | fourteen |
+| 4 | four | 15 | fifteen |
+| 5 | five | 16 | sixteen |
+| 6 | six | 17 | seventeen |
+| 7 | seven | 18 | eighteen |
+| 8 | eight | 19 | nineteen |
+| 9 | nine | 20 | twenty |
+| 10 | ten | | |
+
+## Decenas (10-100)
+
+| # | Inglés |
+|:---:|---|
+| 10 | ten |
+| 20 | twenty |
+| 30 | thirty |
+| 40 | forty |
+| 50 | fifty |
+| 60 | sixty |
+| 70 | seventy |
+| 80 | eighty |
+| 90 | ninety |
+| 100 | one hundred |
+
+## Cómo combinar números (21-99)
+
+Se usa la decena + guion + unidad:
+
+- 21 → **twenty-one**
+- 35 → **thirty-five**
+- 47 → **forty-seven**
+- 99 → **ninety-nine**
+
+## Errores comunes de ortografía
+
+- **forty** (40) — sin "u", a diferencia de *four* (4).
+- **fifth**, **ninth** — cambian de forma al volverse ordinales.
+- No confundir **thirteen** (13) con **thirty** (30) — el acento cambia: THIR-**TEEN** vs **THIR**-ty.
+
+## Números ordinales básicos
+
+| Cardinal | Ordinal |
 |---|---|
-| Apple | Manzana |
-| Banana | Plátano |
-| Orange | Naranja |
-| Strawberry | Fresa |
-| Grapes | Uvas |
-| Watermelon | Sandía |
-| Pineapple | Piña |
+| one | first (1st) |
+| two | second (2nd) |
+| three | third (3rd) |
+| four | fourth (4th) |
+| five | fifth (5th) |
 
-## Verduras (Vegetables)
+## Ejemplos en contexto
 
-| Inglés | Español |
-|---|---|
-| Carrot | Zanahoria |
-| Potato | Papa |
-| Tomato | Tomate |
-| Onion | Cebolla |
-| Lettuce | Lechuga |
-| Broccoli | Brócoli |
-
-## Comidas principales
-
-| Inglés | Español |
-|---|---|
-| Bread | Pan |
-| Rice | Arroz |
-| Meat | Carne |
-| Chicken | Pollo |
-| Fish | Pescado |
-| Eggs | Huevos |
-| Cheese | Queso |
-| Soup | Sopa |
-
-## Bebidas (Drinks)
-
-| Inglés | Español |
-|---|---|
-| Water | Agua |
-| Juice | Jugo |
-| Milk | Leche |
-| Coffee | Café |
-| Tea | Té |
-| Soda | Refresco |
-
-## Comida vs bebida: contables e incontables
-
-Muchas palabras de comida son **incontables** (no llevan plural ni "a/an"):
-
-| Incontable | Contable |
-|---|---|
-| water, rice, bread, meat | an apple, an egg, a banana |
-
-> Para cuantificar incontables se usa **"some"** o unidades: *some rice, a piece of bread, a glass of water.*
-
-## Frases útiles en restaurantes
-
-| Inglés | Español |
-|---|---|
-| I'd like... | Me gustaría... |
-| Can I have the menu, please? | ¿Me puede dar el menú? |
-| I'm hungry / thirsty | Tengo hambre / sed |
-| The bill, please | La cuenta, por favor |
-| It's delicious! | ¡Está delicioso! |
-
-### Ejemplo de diálogo
-
-> **Waiter:** What would you like to drink?
-> **You:** I'd like some water, please.
-> **Waiter:** And to eat?
-> **You:** I'd like chicken with rice.
+> I am **twenty-five** years old.
+> There are **twelve** months in a year.
+> My phone number is **five-five-five, one-two-three-four**.
 
 ## Consejos de pronunciación
 
-- **Vegetable** se pronuncia /ˈvɛdʒtəbəl/ — nota que solo tiene 3 sílabas al hablar, no 4.
-- **Fruit** se pronuncia /frut/, con el sonido "u" largo.
+- El sonido "th" en *three, thirteen, thirty* se pronuncia colocando la lengua entre los dientes.
+- Los números terminados en **-teen** (13-19) llevan el acento al final; los terminados en **-ty** (30, 40...) llevan el acento al inicio.
 
 ## Práctica sugerida
 
-1. Haz una lista de tu comida favorita en inglés.
-2. Escribe un diálogo pidiendo comida en un restaurante.
-3. Clasifica 10 alimentos entre contables e incontables.
+1. Cuenta en voz alta del 1 al 20.
+2. Di tu edad, tu número de teléfono y tu dirección en inglés.
+3. Practica distinguir *thirteen/thirty*, *fourteen/forty*, etc.

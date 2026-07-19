@@ -1,51 +1,56 @@
-# C1 · Gramática 06 — El Subjuntivo (Subjunctive)
+# C1 · Gramática 07 — Oraciones Hendidas (Cleft Sentences)
 
-> 🎯 **Objetivo:** reconocer y usar el subjuntivo inglés — una forma poco frecuente pero característica del registro formal, legal y de ciertas expresiones fijas.
+> 🎯 **Objetivo:** usar estructuras que dividen una oración en dos partes para dar énfasis a un elemento específico — un recurso muy usado en discurso persuasivo y escritura elegante.
 
-El subjuntivo inglés es mucho menos usado que el español, pero aparece en contextos formales: recomendaciones, exigencias, y expresiones fijas.
+Las cleft sentences "parten" una oración simple para resaltar una parte específica de la información.
 
-## Subjuntivo presente: forma base sin importar la persona
+## It-cleft: enfatizar un elemento
 
-📌 **Estructura**: that + sujeto + verbo base (sin -s, sin importar la persona)
+📌 **Estructura**: It + is/was + [elemento enfatizado] + that/who + resto de la oración
 
-> *It is essential that he **be** present.* (no "is")
-> *I suggest that she **arrive** early.* (no "arrives")
-> *The judge demanded that the witness **tell** the truth.*
+> Oración simple: *John broke the window.*
+> Enfatizando el sujeto: ***It was John** who broke the window.*
+> Enfatizando el objeto: ***It was the window** that John broke.*
 
-🔑 A diferencia del indicativo, el verbo **no cambia con la persona**: *he be*, no *he is*.
+```mermaid
+flowchart LR
+    A["John broke the window<br/>(oración neutra)"] --> B["It was JOHN who broke the window<br/>(énfasis en QUIÉN)"]
+    A --> C["It was the WINDOW that John broke<br/>(énfasis en QUÉ)"]
+```
 
-## Verbos y expresiones que lo activan
+## Wh-cleft (pseudo-cleft): con "what"
 
-| Verbos | Expresiones |
-|---|---|
-| suggest, recommend, insist, demand, require, propose | it is essential, it is important, it is vital, it is necessary |
+📌 **Estructura**: What + sujeto + verbo + is/was + [elemento enfatizado]
 
-> *I recommend that he **see** a doctor.*
-> *It's important that everyone **be** on time.*
+> Oración simple: *I need more time.*
+> Con énfasis: ***What** I need **is** more time.*
 
-## Subjuntivo en expresiones fijas
+> Oración simple: *This surprised me.*
+> Con énfasis: ***What** surprised me **was** his reaction.*
 
-Sobrevive en frases hechas que se memorizan como bloques:
+## Comparación de impacto
 
-> ***If I were** you, I would accept.* (no "was")
-> *God **save** the King.*
-> ***Be that** as it may...* (sea como sea...)
-> *Suffice **it to say**...*
+| Neutra | Con énfasis (it-cleft) | Con énfasis (wh-cleft) |
+|---|---|---|
+| *She loves music.* | *It's music that she loves.* | *What she loves is music.* |
+| *We need funding.* | *It's funding that we need.* | *What we need is funding.* |
 
-## Registro: formal vs informal
+## Uso en discurso persuasivo
 
-En inglés hablado cotidiano, muchos hablantes usan indicativo en vez de subjuntivo (especialmente en inglés británico):
+Estas estructuras son comunes en discursos, ensayos y debates porque dirigen la atención del oyente:
 
-> Formal/americano: *I suggest that he **come** early.*
-> Informal/británico: *I suggest that he **should come** early.*
+> *It is **not** the money **that** motivates her — it's the challenge.*
+> *What really matters **is** how we treat others.*
 
 ## Práctica
 
-1. Completa: *"It is essential that she ___ (be) informed."*
-2. Completa: *"The manager insisted that he ___ (finish) the report."*
-3. Identifica el subjuntivo en: *"If I were rich, I would travel."*
+1. Convierte con it-cleft (enfatiza "Maria"): *"Maria organized the event."*
+2. Convierte con wh-cleft: *"I want peace and quiet."*
+3. Enfatiza el objeto: *"She wrote this book."* (enfatiza "this book")
 
 <details><summary>Ver respuestas</summary>
 
-1. be 2. finish 3. "were" (subjuntivo, no "was")
+1. It was Maria who organized the event.
+2. What I want is peace and quiet.
+3. It was this book that she wrote.
 </details>

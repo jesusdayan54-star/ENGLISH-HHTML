@@ -1,79 +1,39 @@
-# A1.10 – Días de la Semana y Meses
+# A1 · Vocabulario 08 — Ropa (Clothes)
 
-Saber los días y meses es esencial para hacer planes, dar fechas y hablar de horarios.
-
-## Días de la semana
+## Prendas básicas
 
 | Inglés | Español |
 |---|---|
-| Monday | Lunes |
-| Tuesday | Martes |
-| Wednesday | Miércoles |
-| Thursday | Jueves |
-| Friday | Viernes |
-| Saturday | Sábado |
-| Sunday | Domingo |
+| Shirt | Camisa |
+| T-shirt | Camiseta |
+| Pants / Trousers | Pantalones |
+| Dress | Vestido |
+| Skirt | Falda |
+| Jacket | Chaqueta |
+| Sweater | Suéter |
+| Shoes | Zapatos |
+| Socks | Calcetines |
+| Hat | Sombrero |
 
-> ⚠️ En inglés, los días de la semana **siempre se escriben con mayúscula inicial**, y la semana comienza el domingo en el calendario, aunque en el habla cotidiana muchas personas empiezan a contar desde el lunes.
-
-## Meses del año
-
-| Inglés | Español |
-|---|---|
-| January | Enero |
-| February | Febrero |
-| March | Marzo |
-| April | Abril |
-| May | Mayo |
-| June | Junio |
-| July | Julio |
-| August | Agosto |
-| September | Septiembre |
-| October | Octubre |
-| November | Noviembre |
-| December | Diciembre |
-
-> ⚠️ Igual que los días, los meses **siempre van con mayúscula inicial** en inglés.
-
-## Preposiciones con fechas
-
-| Uso | Ejemplo |
-|---|---|
-| **On** + día | I have class **on** Monday. |
-| **In** + mes/año | My birthday is **in** July. / **In** 2020. |
-| **At** + hora | The meeting is **at** 5pm. |
-
-## Preguntas comunes
+## Verbos relacionados
 
 | Inglés | Español |
 |---|---|
-| What day is it today? | ¿Qué día es hoy? |
-| What's the date today? | ¿Cuál es la fecha de hoy? |
-| When is your birthday? | ¿Cuándo es tu cumpleaños? |
+| To wear | Usar / llevar puesto |
+| To put on | Ponerse |
+| To take off | Quitarse |
+| To try on | Probarse |
 
-### Ejemplo de diálogo
+## Frases útiles
 
-> **A:** What day is it today?
-> **B:** It's Wednesday.
-> **A:** When is your birthday?
-> **B:** It's in September.
-
-## Estaciones del año (bonus)
-
-| Inglés | Español |
-|---|---|
-| Spring | Primavera |
-| Summer | Verano |
-| Autumn / Fall | Otoño |
-| Winter | Invierno |
+> *What are you wearing?* (¿Qué llevas puesto?)
+> *I need to buy new shoes.* (Necesito comprar zapatos nuevos.)
+> *Can I try this on?* (¿Puedo probarme esto?)
 
 ## Consejos de pronunciación
 
-- **Wednesday** se pronuncia /ˈwɛnzdeɪ/ — la primera "d" es muda.
-- **Tuesday** /ˈtuzdeɪ/ (inglés americano) o /ˈtjuzdeɪ/ (inglés británico).
+- **Clothes** /kloʊðz/ — no se pronuncia la "th" separada, suena casi como "klohz".
 
-## Práctica sugerida
+## Práctica
 
-1. Di la fecha de hoy en inglés completa.
-2. Nombra los 7 días de la semana en orden sin ver la lista.
-3. Practica decir tu cumpleaños usando "in" + mes.
+Describe qué ropa llevas puesto hoy.

@@ -1,75 +1,50 @@
-# A1.09 – Colores y Formas
+# A1 · Gramática 08 — El Verbo "To Be"
 
-Los colores y las formas son vocabulario esencial para describir objetos del mundo que te rodea.
+El verbo **to be** (ser/estar) es el más importante del inglés. Se usa para identidad, edad, estado de ánimo, profesión y ubicación.
 
-## Colores básicos
+## Conjugación en presente
 
-| Inglés | Español |
-|---|---|
-| Red | Rojo |
-| Blue | Azul |
-| Yellow | Amarillo |
-| Green | Verde |
-| Orange | Naranja |
-| Purple | Morado / Púrpura |
-| Pink | Rosa |
-| Brown | Café / Marrón |
-| Black | Negro |
-| White | Blanco |
-| Gray / Grey | Gris |
+| Pronombre | Forma | Contracción |
+|---|---|---|
+| I | am | I'm |
+| You | are | You're |
+| He/She/It | is | He's/She's/It's |
+| We | are | We're |
+| They | are | They're |
 
-## Formas geométricas
+📌 *I **am** a student.* / *She **is** happy.* / *They **are** here.*
 
-| Inglés | Español |
-|---|---|
-| Circle | Círculo |
-| Square | Cuadrado |
-| Triangle | Triángulo |
-| Rectangle | Rectángulo |
-| Star | Estrella |
-| Heart | Corazón |
-| Oval | Óvalo |
-| Diamond | Rombo / Diamante |
+## Negativo y preguntas
 
-## Usando colores como adjetivos
+| Afirmativo | Negativo | Pregunta |
+|---|---|---|
+| I am ready. | I'm **not** ready. | **Am** I ready? |
+| He is tall. | He **isn't** tall. | **Is** he tall? |
+| They are late. | They **aren't** late. | **Are** they late? |
 
-En inglés, los adjetivos van **antes** del sustantivo (al contrario que en español):
+## Usos principales
 
-| Español | Inglés |
-|---|---|
-| Un carro rojo | A red car |
-| La casa azul | The blue house |
-| Zapatos negros | Black shoes |
-
-## Preguntas comunes
-
-| Inglés | Español |
-|---|---|
-| What color is it? | ¿De qué color es? |
-| What's your favorite color? | ¿Cuál es tu color favorito? |
-| What shape is this? | ¿Qué forma es esta? |
-
-### Ejemplo de diálogo
-
-> **A:** What's your favorite color?
-> **B:** I like blue. What about you?
-> **A:** My favorite color is green.
-
-## Describiendo objetos
-
-Puedes combinar forma + color:
-
-> It's a **red circle**.
-> The sign is a **yellow triangle**.
-> I have a **blue square** box.
+1. **Identidad**: *I am Laura.*
+2. **Profesión**: *She is a nurse.*
+3. **Edad**: *I am 20 years old.*
+4. **Estado de ánimo**: *He is tired.*
+5. **Ubicación**: *We are at home.*
+6. **Clima**: *It is cold today.*
 
 ## Consejos de pronunciación
 
-- **Orange** se pronuncia /ˈɔrɪndʒ/, cuidado con la tentación de decirlo como se ve escrito.
-- **Purple** /ˈpɜrpəl/ tiene el sonido "r" característico del inglés americano.
+- **Isn't** /ˈɪzənt/ y **aren't** /ɑrnt/ suenan muy distinto — no los confundas.
+- **I'm** se pronuncia /aɪm/, casi como una sola sílaba.
 
-## Práctica sugerida
+## Práctica
 
-1. Nombra el color de 5 objetos que tengas cerca.
-2. Describe una bandera usando colores y formas.
-3. Practica el orden adjetivo + sustantivo con objetos de tu casa.
+1. Completa: *"She ___ a teacher." / "We ___ tired." / "It ___ cold."*
+2. Convierte a negativo: *"They are ready."*
+3. Convierte a pregunta: *"He is your brother."*
+
+<details><summary>Ver respuestas</summary>
+
+1. is / are / is
+2. They aren't ready.
+3. Is he your brother?
+</details>

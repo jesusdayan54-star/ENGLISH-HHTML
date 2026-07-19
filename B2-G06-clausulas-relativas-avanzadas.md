@@ -1,40 +1,75 @@
-# A1 · Gramática 12 — "Can" para Habilidades
+# A1 · Gramática 02 — Estructura de las Oraciones en Inglés
 
-**Can** expresa habilidad (saber/poder hacer algo). No cambia según la persona.
+El inglés sigue una estructura de oración bastante rígida en comparación con otros idiomas. Comprender esta estructura es esencial para formar oraciones correctas y comunicarse con claridad.
 
-## Estructura
+## 2.1 Orden Básico de la Oración
 
-| Tipo | Fórmula | Ejemplo |
-|---|---|---|
-| Afirmativo | sujeto + can + verbo | I **can** swim. |
-| Negativo | sujeto + can't + verbo | I **can't** cook. |
-| Pregunta | Can + sujeto + verbo? | **Can** you drive? |
+En inglés, el orden más común de las palabras en una oración es:
 
-⚠️ Después de *can* siempre va el verbo en forma base, sin "to": ~~can to play~~ ❌ → **can play** ✅
+> **Sujeto + Verbo + Complemento**
 
-## Respuestas cortas
+🔹 **Ejemplo:**
+> *She loves music.* (Ella ama la música.)
+> - Sujeto: *She*
+> - Verbo: *loves*
+> - Complemento: *music*
 
-> **Can** you swim? → Yes, I can. / No, I can't.
+## 2.2 Estructura en Oraciones Afirmativas, Negativas e Interrogativas
 
-## Usos de "can"
+📌 **Afirmativas**
+Siguen el orden estándar Sujeto + Verbo + Complemento.
+> *They play soccer.* (Ellos juegan al fútbol.)
 
-- Habilidad: *She can play the guitar.*
-- Pedir permiso: *Can I open the window?*
-- Pedir algo con cortesía: *Can you pass the salt?*
+📌 **Negativas**
+Se usa el auxiliar *do/does/did + not* antes del verbo principal (en presente y pasado simple). En otros tiempos, se usa el auxiliar correspondiente con *not*.
+> *They do not play soccer.* (Ellos no juegan al fútbol.)
+> *She is not happy.* (Ella no está feliz.)
 
-## Pronunciación: can vs can't
+📌 **Interrogativas**
+Se invierte el orden del sujeto y el verbo auxiliar. Si no hay auxiliar, se usa *do/does/did* en tiempos simples.
+> *Do they play soccer?* (¿Ellos juegan al fútbol?)
+> *Is she happy?* (¿Ella está feliz?)
 
-| Palabra | Pronunciación |
-|---|---|
-| can (sin énfasis) | /kən/ suave y rápido |
-| can't | /kænt/ vocal marcada + "t" final |
+## 2.3 Estructura en Diferentes Tipos de Oraciones
 
-## Práctica
+✅ **Oraciones Simples**
+Tienen un solo verbo y expresan una idea completa.
+> *I study English every day.* (Yo estudio inglés todos los días.)
 
-1. Escribe 3 cosas que puedes hacer y 3 que no.
-2. Pregunta: "¿Puedes cocinar?"
+✅ **Oraciones Compuestas**
+Unen dos oraciones simples con una conjunción (*and, but, or, so*).
+> *I study English, and I practice speaking.* (Yo estudio inglés y practico hablar.)
 
-<details><summary>Ver respuestas</summary>
+✅ **Oraciones Complejas**
+Tienen una oración principal y una subordinada que depende de ella.
+> *I study English because I want to travel.* (Estudio inglés porque quiero viajar.)
 
-2. Can you cook?
-</details>
+✅ **Oraciones Condicionales**
+Expresan condiciones con *if, unless, provided that*, etc.
+> *If you study, you will pass the exam.* (Si estudias, aprobarás el examen.)
+
+## 2.4 Posición de los Adverbios
+
+🔹 **Adverbios de frecuencia** (*always, never, sometimes, often, usually*)
+
+Van antes del verbo principal, pero después del verbo *to be*.
+> *She always eats breakfast.* (Ella siempre desayuna.)
+> *He is usually late.* (Él suele llegar tarde.)
+
+🔹 **Adverbios de modo, lugar y tiempo** (*quickly, here, yesterday*)
+
+Generalmente van al final de la oración.
+> *She spoke softly.* (Ella habló suavemente.)
+> *We met yesterday.* (Nos encontramos ayer.)
+
+## 2.5 Preguntas y Respuestas Cortas
+
+Las preguntas en inglés suelen comenzar con un verbo auxiliar (*do, does, did, can, will*).
+
+🔹 **Preguntas de Sí/No**
+> *Do you like coffee?* (¿Te gusta el café?)
+> Yes, I do. / No, I don't.
+
+🔹 **Preguntas con Wh-**
+> *Where do you live?* (¿Dónde vives?)
+> I live in Spain. (Vivo en España.)

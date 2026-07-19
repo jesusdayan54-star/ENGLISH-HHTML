@@ -1,50 +1,49 @@
-# EXTRA · Anexo 07 — Inglés Británico vs Americano
+# EXTRA · Anexo 01 — Resumen de los Tiempos Verbales
 
-> 📋 Las dos variantes principales del inglés difieren en vocabulario, ortografía y algo de pronunciación. Ninguna es "más correcta" — son estándares distintos.
+> 📋 **Referencia rápida** de los tiempos verbales principales, con uso, estructura y ejemplo. Ideal para consulta veloz o repaso antes de un examen.
 
-## Diferencias de vocabulario
+## Tabla maestra de los 12 tiempos
 
-| Británico (UK) | Americano (US) | Español |
-|---|---|---|
-| flat | apartment | apartamento |
-| lift | elevator | ascensor |
-| holiday | vacation | vacaciones |
-| rubbish | garbage/trash | basura |
-| petrol | gas / gasoline | gasolina |
-| trousers | pants | pantalones |
-| pavement | sidewalk | acera |
-| chips | fries | papas fritas |
-| biscuit | cookie | galleta |
-| autumn | fall | otoño |
-| mobile phone | cell phone | celular |
-| queue | line | fila |
+| Tiempo | Estructura | Uso principal | Ejemplo |
+|---|---|---|---|
+| **Presente Simple** | S + verbo | hábitos, verdades | *She works every day.* |
+| **Presente Continuo** | S + am/is/are + -ing | ahora, planes | *I am studying now.* |
+| **Presente Perfecto** | S + have/has + participio | experiencia, relevancia | *They have visited Paris.* |
+| **Pres. Perfecto Continuo** | S + have/has been + -ing | duración hasta ahora | *I have been working for hours.* |
+| **Pasado Simple** | S + verbo pasado | acción terminada | *She visited her grandmother yesterday.* |
+| **Pasado Continuo** | S + was/were + -ing | en progreso en el pasado | *I was sleeping when he called.* |
+| **Pasado Perfecto** | S + had + participio | antes de otra acción pasada | *She had already left when I arrived.* |
+| **Pas. Perfecto Continuo** | S + had been + -ing | duración hasta un punto pasado | *He had been waiting for an hour.* |
+| **Futuro Simple** | S + will + verbo | predicción, promesa | *I will help you.* |
+| **Futuro con Going to** | S + am/is/are going to + verbo | plan, evidencia | *They are going to move to Spain.* |
+| **Futuro Perfecto** | S + will have + participio | terminado antes de un punto futuro | *By 2025, I will have graduated.* |
+| **Fut. Perfecto Continuo** | S + will have been + -ing | duración hasta un punto futuro | *I will have been working for 5 years.* |
 
-## Diferencias de ortografía
+## Línea de tiempo visual
 
-| Británico | Americano |
-|---|---|
-| colour | color |
-| favourite | favorite |
-| organise | organize |
-| centre | center |
-| theatre | theater |
-| travelled | traveled |
-| analyse | analyze |
-| defence | defense |
+```mermaid
+flowchart LR
+    PAST["◀ PASADO"] --- NOW["● AHORA"] --- FUTURE["FUTURO ▶"]
+    PAST -.- P1["had worked<br/>(perfecto)"]
+    PAST -.- P2["worked<br/>(simple)"]
+    NOW -.- N1["have worked<br/>(perfecto)"]
+    NOW -.- N2["work / am working"]
+    FUTURE -.- F1["will work"]
+    FUTURE -.- F2["will have worked"]
+```
 
-## Diferencias gramaticales
+## Guía rápida de decisión
 
-| Uso | Británico | Americano |
-|---|---|---|
-| Presente perfecto vs pasado simple | *I've just eaten.* | *I just ate.* (más común usar pasado simple) |
-| "Have got" vs "have" | *I've got a car.* | *I have a car.* |
-| Colectivos (singular/plural) | *The team **are** playing well.* | *The team **is** playing well.* |
+```mermaid
+flowchart TD
+    A["¿Cuándo ocurre?"] --> B["PRESENTE"]
+    A --> C["PASADO"]
+    A --> D["FUTURO"]
+    B --> B1{"¿En progreso?"}
+    B1 -->|Sí| B2["Continuo: am/is/are + -ing"]
+    B1 -->|No| B3{"¿Conecta con el pasado?"}
+    B3 -->|Sí| B4["Perfecto: have/has + participio"]
+    B3 -->|No| B5["Simple"]
+```
 
-## Diferencias de pronunciación (generales)
-
-- **R final**: en británico (RP) no se pronuncia (*car* → /kɑː/); en americano sí se pronuncia (*car* → /kɑr/).
-- **T entre vocales**: en americano suena como "d" suave (*water* → "wader"); en británico se pronuncia clara.
-
-## ¿Cuál aprender?
-
-No hay una respuesta "correcta" — depende de tu objetivo (trabajo, país al que viajas, examen que tomarás). Lo importante es ser **consistente**: no mezclar *colour* con *organize* en el mismo texto.
+📌 💡 **Consejo:** practicar con frases reales ayuda a recordar mejor cada tiempo verbal. No memorices tablas — construye oraciones sobre tu propia vida.

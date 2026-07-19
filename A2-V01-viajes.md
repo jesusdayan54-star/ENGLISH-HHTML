@@ -1,134 +1,125 @@
-# B1 · Gramática 04 — Verbos Modales en Contexto
+# B1 · Gramática 05 — Phrasal Verbs Comunes
 
-> 🎯 **Objetivo:** usar los modales según su *función comunicativa* (pedir permiso, dar consejo, expresar obligación...) y no solo memorizar su traducción.
+> 🎯 **Objetivo:** entender la lógica de los phrasal verbs (no memorizarlos a ciegas) y dominar ~35 de los más frecuentes agrupados por tema.
 
-Los modales (*can, could, may, might, must, shall, should, will, would, ought to*) son auxiliares que **matizan** el verbo principal. Reglas de oro que nunca cambian:
+Un **phrasal verb** = verbo + partícula (preposición o adverbio). Su significado suele ser **no literal**: *give up* no es "dar arriba", es "rendirse". Son el corazón del inglés hablado natural.
 
-- No cambian con la persona: *he **can**, she **can*** (nunca *cans*).
-- Van seguidos de **verbo base sin *to*** (excepción: *ought **to***).
-- Para negar e interrogar, ellos mismos son el auxiliar (no usan *do*).
-
-## Mapa por función
-
-```mermaid
-mindmap
-  root((MODALES))
-    Habilidad
-      can
-      could
-    Posibilidad
-      may
-      might
-      could
-    Permiso
-      can
-      may
-    Prohibición
-      mustn't
-    Obligación
-      must
-      have to
-      ought to
-    Consejo
-      should
-      ought to
-      had better
-    Futuro / intención
-      will
-      shall
-    Cortesía / hipótesis
-      would
-```
-
----
-
-## 4.1 Capacidad y Habilidad — *can / could*
-
-> *I **can** swim very well.* (presente)
-> *When I was a child, I **could** run fast.* (habilidad pasada)
-> ***Could** you help me with this?* (petición educada)
-
-🔸 **Ampliación:** para habilidad futura o en tiempos donde *can* no existe, se usa *be able to*: *"I will **be able to** speak French soon."*
-
----
-
-## 4.2 Posibilidad — *may / might / could*
-
-> *It **may** rain tomorrow.* (posibilidad razonable ~50%)
-> *She **might** be at home now.* (posibilidad menor ~30%)
-> *That **could** be dangerous.* (posibilidad teórica)
-
-**Escala de certeza:**
+## ¿Cómo funcionan?
 
 ```mermaid
 flowchart LR
-    A["might<br/>~30%"] --> B["may / could<br/>~50%"] --> C["should<br/>~70%"] --> D["must<br/>~95%"] --> E["will<br/>100%"]
+    V["Verbo<br/>(look)"] + P["Partícula<br/>(up / after / for)"] --> M["Significado nuevo"]
+    M --> M1["look up = buscar info"]
+    M --> M2["look after = cuidar"]
+    M --> M3["look for = buscar algo perdido"]
 ```
 
+Una misma raíz cambia por completo según la partícula. Por eso se aprenden **en contexto**, no en lista suelta.
+
 ---
 
-## 4.3 Permiso y Prohibición
+## 5.1 Acción Diaria
 
-| Modal | Función | Ejemplo |
+| Phrasal verb | Significado | Ejemplo |
 |---|---|---|
-| **can** | permiso informal | *Can I go to the bathroom?* |
-| **may** | permiso formal | *May I ask you a question?* |
-| **mustn't** | prohibición | *You mustn't smoke here.* |
-
-🔸 **Ampliación — trampa clásica:** *mustn't* (prohibido) ≠ *don't have to* (no es necesario).
-> *You **mustn't** park here.* = Está prohibido.
-> *You **don't have to** park here.* = No es obligatorio (pero puedes).
-
----
-
-## 4.4 Obligación y Necesidad — *must / have to / ought to*
-
-> *You **must** wear a seatbelt.* (obligación fuerte, interna o legal)
-> *I **have to** wake up early tomorrow.* (obligación externa/cotidiana)
-> *You **ought to** apologize.* (deber moral)
-
-🔑 **must vs have to:** *must* suele venir del hablante ("yo lo considero necesario"); *have to* viene de una regla externa ("las circunstancias lo imponen").
+| **wake up** | despertarse | *I wake up at 7 AM.* |
+| **get up** | levantarse | *She gets up early.* |
+| **put on** | ponerse (ropa) | *He put on his jacket.* |
+| **take off** | quitarse (ropa) | *She took off her shoes.* |
+| **go out** | salir | *We went out for dinner.* |
+| **come back** | volver | *I'll come back in an hour.* |
 
 ---
 
-## 4.5 Consejo y Recomendación — *should / had better*
+## 5.2 Comunicación
 
-> *You **should** eat more vegetables.* (consejo normal)
-> *You **had better** study, or you'll fail.* (consejo fuerte con advertencia)
-
-🔸 **had better** /ˈhæd ˈbetər/ implica una **consecuencia negativa** si no se sigue. Es más urgente que *should*.
-
----
-
-## 4.6 Intención y Futuro — *will / shall / would*
-
-> *I **will** call you later.* (futuro/promesa)
-> ***Shall** we go to the park?* (sugerencia formal)
-> ***Would** you help me, please?* (petición muy educada)
-> *If I were rich, I **would** travel the world.* (hipótesis)
+| Phrasal verb | Significado | Ejemplo |
+|---|---|---|
+| **look up** | buscar información | *I looked up the word.* |
+| **talk about** | hablar sobre | *We talked about the project.* |
+| **bring up** | mencionar un tema | *She brought up a good point.* |
+| **call back** | devolver la llamada | *I'll call you back.* |
+| **hang up** | colgar el teléfono | *He hung up suddenly.* |
 
 ---
 
-## 4.7 Resumen funcional
+## 5.3 Trabajo y Estudio
 
-| Modal | Funciones clave |
-|---|---|
-| **can / could** | habilidad, posibilidad, permiso |
-| **may / might** | posibilidad, permiso formal |
-| **must / have to** | obligación, necesidad |
-| **should / ought to** | consejo, recomendación |
-| **will / shall** | futuro, intención, sugerencia |
-| **would** | condicionales, cortesía |
+| Phrasal verb | Significado | Ejemplo |
+|---|---|---|
+| **carry out** | llevar a cabo | *They carried out an experiment.* |
+| **find out** | averiguar | *I need to find out the truth.* |
+| **turn in** | entregar (tarea) | *I turned in my essay.* |
+| **work on** | trabajar en algo | *She is working on a project.* |
+| **look over** | revisar | *Please look over my report.* |
+
+---
+
+## 5.4 Relaciones y Emociones
+
+| Phrasal verb | Significado | Ejemplo |
+|---|---|---|
+| **get along (with)** | llevarse bien | *I get along with my coworkers.* |
+| **break up (with)** | terminar una relación | *They broke up last month.* |
+| **cheer up** | animar(se) | *Cheer up! It'll be fine.* |
+| **hang out (with)** | pasar el rato | *We hung out at the mall.* |
+
+---
+
+## 5.5 Movimiento y Dirección
+
+| Phrasal verb | Significado | Ejemplo |
+|---|---|---|
+| **go back** | regresar | *We went back home.* |
+| **run into** | encontrarse por casualidad | *I ran into an old friend.* |
+| **set off** | partir (viaje) | *We set off early.* |
+| **turn around** | dar la vuelta | *Turn around and look!* |
+
+---
+
+## 5.6 Problemas y Soluciones
+
+| Phrasal verb | Significado | Ejemplo |
+|---|---|---|
+| **run out of** | quedarse sin | *We ran out of milk.* |
+| **give up** | rendirse | *Don't give up!* |
+| **sort out** | resolver | *We need to sort this out.* |
+| **come up with** | idear/proponer | *She came up with a plan.* |
+
+---
+
+## 5.7 Separables vs Inseparables (ampliación clave)
+
+Esto el libro no lo detalla, pero es fundamental:
+
+```mermaid
+flowchart TD
+    A["Phrasal verb con objeto"] --> B{"¿Es separable?"}
+    B -->|"Separable"| C["El objeto puede ir en medio<br/>Turn OFF the light ✅<br/>Turn the light OFF ✅<br/>Turn it OFF ✅ (pronombre OBLIGA a separar)"]
+    B -->|"Inseparable"| D["El objeto va después<br/>Look after the baby ✅<br/>Look the baby after ❌"]
+```
+
+🔑 **Regla del pronombre:** con phrasal verbs separables, si el objeto es un **pronombre** (*it, them, him*), **debe** ir en medio:
+> ✅ *Turn **it** off.* ❌ *Turn off it.*
+
+---
+
+## 5.8 Consejos para aprenderlos
+
+- 📌 Agrúpalos **por tema** (como aquí), no alfabéticamente.
+- 📌 Úsalos en **frases propias** cada día.
+- 📌 Asocia una **imagen mental** al significado.
+- 📌 Anótalos cuando los oigas en series o canciones.
 
 ## 🏋️ Práctica
 
-1. Permiso formal para salir temprano: "___ I leave early?"
-2. Prohibición de usar el teléfono: "You ___ use your phone here."
-3. Consejo fuerte con advertencia: "You ___ hurry, or you'll be late."
-4. Deducción casi segura: "The lights are off. She ___ be asleep."
+Reemplaza por un phrasal verb:
+1. *We need to **investigate/discover** what happened.* → f___ o___
+2. *Please **postpone** the meeting.* → p___ o___ (pista: no está arriba, es "put off")
+3. *I **admire/respect** my teacher.* → l___ u___ t___ (pista: "look up to")
 
 <details>
 <summary>Ver respuestas</summary>
 
-1. *May* 2. *mustn't* 3. *had better* 4. *must*
+1. *find out* 2. *put off* 3. *look up to*
 </details>

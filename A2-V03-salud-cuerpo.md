@@ -1,51 +1,46 @@
-# B1 · Gramática 09 — Used to / Would (Hábitos Pasados)
+# B1 · Gramática 10 — Presente Perfecto Continuo
 
-> 🎯 **Objetivo:** hablar de hábitos y estados pasados que ya no ocurren, distinguiendo cuándo usar cada forma.
+> 🎯 **Objetivo:** expresar acciones que empezaron en el pasado y continúan (o acaban de terminar), con énfasis en la duración.
 
-## Used to: hábitos y estados pasados
+## Estructura
 
-📌 **Estructura**: used to + verbo base
-
-> *I **used to** play soccer every weekend.* (hábito, ya no lo hago)
-> *She **used to** be shy.* (estado pasado, ya no)
-
-✅ Funciona con **acciones repetidas** y también con **estados** (ser, tener, gustar).
-
-## Would: solo hábitos, no estados
-
-📌 **Estructura**: would + verbo base
-
-> *When I was a child, I **would** play soccer every weekend.* ✅
-> *I **would** be shy as a child.* ❌ (incorrecto: "be" es un estado)
-
-```mermaid
-flowchart TD
-    A["¿Hábito o estado pasado?"] --> B{"¿Es un ESTADO?<br/>(be, have, like, know...)"}
-    B -->|"Sí"| C["Solo USED TO<br/>I used to be shy ✅"]
-    B -->|"No, es acción repetida"| D["USED TO o WOULD<br/>I would play / I used to play ✅"]
-```
-
-## Negativo y preguntas (solo con used to)
+📌 Sujeto + have/has + been + verbo-ing
 
 | Afirmativo | Negativo | Pregunta |
 |---|---|---|
-| I used to smoke. | I **didn't use to** smoke. | **Did** you **use to** smoke? |
+| I **have been working**. | I **haven't been working**. | **Have** you **been working**? |
+| She **has been studying**. | She **hasn't been studying**. | **Has** she **been studying**? |
 
-⚠️ Nota: en negativo/pregunta se quita la "d" de "used" → "use to".
+## Uso principal: duración hasta ahora
 
-## Diferencia con el presente
+> *I **have been waiting** for an hour.* (empezó hace una hora, sigo esperando)
+> *She **has been studying** English for two years.* (empezó hace 2 años, continúa)
 
-> *I **used to** live in Mexico. Now I live in Spain.* (contraste explícito con el presente)
+## Presente Perfecto Simple vs Continuo
+
+| Presente Perfecto Simple | Presente Perfecto Continuo |
+|---|---|
+| Enfoca el **resultado** | Enfoca la **duración/proceso** |
+| *I have read 3 books this month.* (cantidad) | *I have been reading all day.* (proceso) |
+| *She has cleaned the house.* (terminado) | *She has been cleaning the house.* (puede seguir sucia, importa el esfuerzo) |
+
+## Palabras clave: for y since
+
+- **For** + duración: *for two hours, for a year*
+- **Since** + punto en el tiempo: *since 2020, since Monday*
+
+> *I have been living here **for** five years.*
+> *I have been living here **since** 2020.*
 
 ## Práctica
 
-1. Completa con used to o would (o ambos si aplica): *"When I was young, I ___ (climb) trees."*
-2. Completa (solo un opción es correcta): *"She ___ (be) very quiet as a child."*
-3. Convierte a negativo: *"I used to like vegetables."*
+1. Completa: *"They ___ (wait) for 20 minutes."*
+2. Elige for o since: *"I've been studying ___ 3 PM."*
+3. Diferencia: *"I have painted the wall"* vs *"I have been painting the wall"* — ¿cuál enfoca el resultado terminado?
 
 <details><summary>Ver respuestas</summary>
 
-1. used to climb / would climb (ambos válidos)
-2. used to be (estado, "would" no aplica)
-3. I didn't use to like vegetables.
+1. have been waiting
+2. since
+3. "I have painted the wall" enfoca el resultado (ya está pintada).
 </details>

@@ -1,76 +1,79 @@
-# A1.05 – Números del 0 al 100
+# A1.10 – Días de la Semana y Meses
 
-Los números son esenciales para hablar de precios, edades, horas, direcciones y mucho más.
+Saber los días y meses es esencial para hacer planes, dar fechas y hablar de horarios.
 
-## Números del 0 al 20
+## Días de la semana
 
-| # | Inglés | # | Inglés |
-|:---:|---|:---:|---|
-| 0 | zero | 11 | eleven |
-| 1 | one | 12 | twelve |
-| 2 | two | 13 | thirteen |
-| 3 | three | 14 | fourteen |
-| 4 | four | 15 | fifteen |
-| 5 | five | 16 | sixteen |
-| 6 | six | 17 | seventeen |
-| 7 | seven | 18 | eighteen |
-| 8 | eight | 19 | nineteen |
-| 9 | nine | 20 | twenty |
-| 10 | ten | | |
-
-## Decenas (10-100)
-
-| # | Inglés |
-|:---:|---|
-| 10 | ten |
-| 20 | twenty |
-| 30 | thirty |
-| 40 | forty |
-| 50 | fifty |
-| 60 | sixty |
-| 70 | seventy |
-| 80 | eighty |
-| 90 | ninety |
-| 100 | one hundred |
-
-## Cómo combinar números (21-99)
-
-Se usa la decena + guion + unidad:
-
-- 21 → **twenty-one**
-- 35 → **thirty-five**
-- 47 → **forty-seven**
-- 99 → **ninety-nine**
-
-## Errores comunes de ortografía
-
-- **forty** (40) — sin "u", a diferencia de *four* (4).
-- **fifth**, **ninth** — cambian de forma al volverse ordinales.
-- No confundir **thirteen** (13) con **thirty** (30) — el acento cambia: THIR-**TEEN** vs **THIR**-ty.
-
-## Números ordinales básicos
-
-| Cardinal | Ordinal |
+| Inglés | Español |
 |---|---|
-| one | first (1st) |
-| two | second (2nd) |
-| three | third (3rd) |
-| four | fourth (4th) |
-| five | fifth (5th) |
+| Monday | Lunes |
+| Tuesday | Martes |
+| Wednesday | Miércoles |
+| Thursday | Jueves |
+| Friday | Viernes |
+| Saturday | Sábado |
+| Sunday | Domingo |
 
-## Ejemplos en contexto
+> ⚠️ En inglés, los días de la semana **siempre se escriben con mayúscula inicial**, y la semana comienza el domingo en el calendario, aunque en el habla cotidiana muchas personas empiezan a contar desde el lunes.
 
-> I am **twenty-five** years old.
-> There are **twelve** months in a year.
-> My phone number is **five-five-five, one-two-three-four**.
+## Meses del año
+
+| Inglés | Español |
+|---|---|
+| January | Enero |
+| February | Febrero |
+| March | Marzo |
+| April | Abril |
+| May | Mayo |
+| June | Junio |
+| July | Julio |
+| August | Agosto |
+| September | Septiembre |
+| October | Octubre |
+| November | Noviembre |
+| December | Diciembre |
+
+> ⚠️ Igual que los días, los meses **siempre van con mayúscula inicial** en inglés.
+
+## Preposiciones con fechas
+
+| Uso | Ejemplo |
+|---|---|
+| **On** + día | I have class **on** Monday. |
+| **In** + mes/año | My birthday is **in** July. / **In** 2020. |
+| **At** + hora | The meeting is **at** 5pm. |
+
+## Preguntas comunes
+
+| Inglés | Español |
+|---|---|
+| What day is it today? | ¿Qué día es hoy? |
+| What's the date today? | ¿Cuál es la fecha de hoy? |
+| When is your birthday? | ¿Cuándo es tu cumpleaños? |
+
+### Ejemplo de diálogo
+
+> **A:** What day is it today?
+> **B:** It's Wednesday.
+> **A:** When is your birthday?
+> **B:** It's in September.
+
+## Estaciones del año (bonus)
+
+| Inglés | Español |
+|---|---|
+| Spring | Primavera |
+| Summer | Verano |
+| Autumn / Fall | Otoño |
+| Winter | Invierno |
 
 ## Consejos de pronunciación
 
-- El sonido "th" en *three, thirteen, thirty* se pronuncia colocando la lengua entre los dientes.
-- Los números terminados en **-teen** (13-19) llevan el acento al final; los terminados en **-ty** (30, 40...) llevan el acento al inicio.
+- **Wednesday** se pronuncia /ˈwɛnzdeɪ/ — la primera "d" es muda.
+- **Tuesday** /ˈtuzdeɪ/ (inglés americano) o /ˈtjuzdeɪ/ (inglés británico).
 
 ## Práctica sugerida
 
-1. Cuenta en voz alta del 1 al 20.
-2. Di tu edad, tu número de teléfono y tu dirección en inglés.
-3. Practica distinguir *thirteen/thirty*, *fourteen/forty*, etc.
+1. Di la fecha de hoy en inglés completa.
+2. Nombra los 7 días de la semana en orden sin ver la lista.
+3. Practica decir tu cumpleaños usando "in" + mes.

@@ -1,46 +1,39 @@
-# A2 · Vocabulario 04 — Casa y Hogar (House & Home)
+# A2 · Vocabulario 01 — Viajes (Travel)
 
-## Habitaciones
-
-| Inglés | Español |
-|---|---|
-| Living room | Sala |
-| Bedroom | Dormitorio |
-| Kitchen | Cocina |
-| Bathroom | Baño |
-| Garden | Jardín |
-| Garage | Garaje |
-
-## Muebles y objetos
+## En el aeropuerto
 
 | Inglés | Español |
 |---|---|
-| Sofa / Couch | Sofá |
-| Bed | Cama |
-| Table | Mesa |
-| Wardrobe / Closet | Ropero / Clóset |
-| Fridge | Refrigerador |
-| Sink | Fregadero |
+| Airport | Aeropuerto |
+| Flight | Vuelo |
+| Boarding pass | Tarjeta de embarque |
+| Luggage / Baggage | Equipaje |
+| Passport | Pasaporte |
+| Departure | Salida |
+| Arrival | Llegada |
+| Delayed | Retrasado |
 
-## Tareas del hogar
+## En el hotel
 
 | Inglés | Español |
 |---|---|
-| Clean the house | Limpiar la casa |
-| Do the laundry | Lavar la ropa |
-| Wash the dishes | Lavar los platos |
-| Take out the trash | Sacar la basura |
+| Reservation | Reservación |
+| Check-in / Check-out | Registro de entrada/salida |
+| Room service | Servicio a la habitación |
+| Receptionist | Recepcionista |
 
 ## Frases útiles
 
-> *My house has three bedrooms.* (Mi casa tiene tres dormitorios.)
-> *I need to do the laundry today.* (Necesito lavar la ropa hoy.)
+> *I'd like to book a room.* (Quisiera reservar una habitación.)
+> *Where is the nearest station?* (¿Dónde está la estación más cercana?)
+> *How much is a ticket to...?* (¿Cuánto cuesta un boleto a...?)
+> *Is there Wi-Fi here?* (¿Hay Wi-Fi aquí?)
 
 ## Consejos de pronunciación
 
-- **Wardrobe** /ˈwɔrdroʊb/.
-- **Laundry** /ˈlɔndri/.
+- **Luggage** /ˈlʌɡɪdʒ/ — no confundir con "language".
+- **Reservation** /ˌrɛzərˈveɪʃən/.
 
 ## Práctica
 
-Describe tu casa: cuántas habitaciones tiene y qué hay en cada una.
+Escribe un diálogo pidiendo información en un aeropuerto.

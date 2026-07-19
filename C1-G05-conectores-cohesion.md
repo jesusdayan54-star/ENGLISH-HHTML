@@ -1,110 +1,52 @@
-# EXTRA · Anexo 03 — Expresiones Comunes con Verbos
+# EXTRA · Anexo 08 — Errores Comunes de Hispanohablantes
 
-> 📋 Los verbos más frecuentes del inglés (*take, make, give, get, keep*) forman **colocaciones** fijas que aparecen constantemente. Aprenderlas como bloques te da fluidez inmediata.
+> 📋 Errores típicos que ocurren por traducir literalmente del español, en todos los niveles.
 
-## Mapa de los 5 verbos clave
+## Errores de estructura
 
-```mermaid
-mindmap
-  root((VERBOS +<br/>EXPRESIÓN))
-    TAKE
-      take your time
-      take care of
-    MAKE
-      make a decision
-      make an effort
-    GIVE
-      give a hand
-      give up
-    GET
-      get ready
-      get used to
-    KEEP
-      keep in touch
-      keep in mind
-```
+| ❌ Incorrecto | ✅ Correcto | Por qué |
+|---|---|---|
+| *I have 25 years.* | *I am 25 years old.* | La edad usa "to be", no "to have" |
+| *I am agree.* | *I agree.* | "Agree" ya es un verbo, no necesita "am" |
+| *She has 20 years old.* | *She is 20 years old.* | Mismo error de "to be" vs "to have" |
+| *Make a question* | *Ask a question* | "Hacer una pregunta" no es "make" |
+| *I am boring.* | *I am bored.* | "Boring" = aburrido (que aburre); "bored" = aburrido (que siente aburrimiento) |
 
----
+## Errores con preposiciones
 
-## 3.1 Expresiones con "Take" (tomar, llevar)
-
-| Expresión | Significado |
+| ❌ Incorrecto | ✅ Correcto |
 |---|---|
-| **Take your time** | Tómate tu tiempo |
-| **Take a break** | Tomarse un descanso |
-| **Take into account** | Tomar en cuenta |
-| **Take care of** | Cuidar de |
-| **Take advantage of** | Aprovechar |
-| **Take place** | Tener lugar, ocurrir |
-| **Take part in** | Participar en |
+| *Depend of* | *Depend on* |
+| *Married with* | *Married to* |
+| *Listen music* | *Listen to music* |
+| *Explain me* | *Explain to me* |
+| *Arrive to the city* | *Arrive in the city* |
 
-📌 *You should **take into account** the weather before traveling.*
+## Errores de doble negación
 
----
+En español se pueden usar dos negativos; en inglés eso es incorrecto:
 
-## 3.2 Expresiones con "Make" (hacer, causar)
-
-| Expresión | Significado |
+| ❌ Incorrecto | ✅ Correcto |
 |---|---|
-| **Make a decision** | Tomar una decisión |
-| **Make progress** | Hacer progreso |
-| **Make a mistake** | Cometer un error |
-| **Make a difference** | Marcar la diferencia |
-| **Make an effort** | Hacer un esfuerzo |
-| **Make sense** | Tener sentido |
-| **Make up your mind** | Decidirse |
+| *I don't know nothing.* | *I don't know anything.* |
+| *I don't have no money.* | *I don't have any money.* |
 
-📌 *She **made an effort** to finish the project on time.*
+## Confusión de verbos "falsos cognados" funcionales
 
-🔸 **Recordatorio make vs do:** *make* = crear/producir algo nuevo; *do* = realizar una actividad o tarea.
-
----
-
-## 3.3 Expresiones con "Give" (dar, ofrecer)
-
-| Expresión | Significado |
+| ❌ Incorrecto | ✅ Correcto |
 |---|---|
-| **Give someone a hand** | Echar una mano |
-| **Give it a try** | Intentarlo |
-| **Give up** | Rendirse |
-| **Give birth** | Dar a luz |
-| **Give someone a call** | Llamar a alguien |
-| **Give a speech** | Dar un discurso |
+| *I have 20 years working here.* | *I have been working here for 20 years.* |
+| *Since two years* | *For two years* |
+| *I am agree with you.* | *I agree with you.* |
 
-📌 *I can't open this jar, can you **give me a hand**?*
+## Errores de orden de palabras
 
----
-
-## 3.4 Expresiones con "Get" (obtener, llegar a ser)
-
-| Expresión | Significado |
+| ❌ Incorrecto | ✅ Correcto |
 |---|---|
-| **Get ready** | Prepararse |
-| **Get lost** | Perderse |
-| **Get along with** | Llevarse bien con |
-| **Get used to** | Acostumbrarse a |
-| **Get in trouble** | Meterse en problemas |
-| **Get rid of** | Deshacerse de |
-| **Get in touch** | Ponerse en contacto |
+| *I like very much chocolate.* | *I like chocolate very much.* |
+| *Have you a car?* | *Do you have a car?* |
+| *Not I know.* | *I don't know.* |
 
-📌 *It took me a while to **get used to** waking up early.*
+## Consejo general
 
----
-
-## 3.5 Expresiones con "Keep" (mantener, seguir)
-
-| Expresión | Significado |
-|---|---|
-| **Keep in touch** | Mantenerse en contacto |
-| **Keep an eye on** | Vigilar |
-| **Keep going** | Seguir adelante |
-| **Keep calm** | Mantener la calma |
-| **Keep in mind** | Tener en cuenta |
-| **Keep a secret** | Guardar un secreto |
-| **Keep a promise** | Cumplir una promesa |
-
-📌 ***Keep in mind** that learning a language takes time.*
-
----
-
-🚀 💡 **Consejo:** aprende estas expresiones **en frases**, no aisladas, y úsalas en conversación para que se vuelvan automáticas. ¡Practica con ellas todos los días!
+La mayoría de estos errores vienen de traducir palabra por palabra. La solución es exponerte a inglés real (lectura, series, podcasts) hasta que las estructuras correctas se vuelvan automáticas.

@@ -1,63 +1,41 @@
-# A1 · Gramática 10 — Plurales Regulares e Irregulares
+# A1 · Gramática 11 — Preposiciones de Lugar
 
-## Regla general: agregar "-s"
+Describen dónde están las cosas. Esenciales para direcciones y descripciones.
 
-| Singular | Plural |
-|---|---|
-| book | books |
-| car | cars |
-| student | students |
+## Tabla principal
 
-## Agregar "-es"
+| Inglés | Español | Ejemplo |
+|---|---|---|
+| in | en / dentro de | The keys are **in** the bag. |
+| on | sobre | The book is **on** the table. |
+| under | debajo de | The cat is **under** the bed. |
+| next to | al lado de | The chair is **next to** the desk. |
+| between | entre | The bank is **between** the shops. |
+| in front of | enfrente de | The car is **in front of** the house. |
+| behind | detrás de | The garden is **behind** the house. |
+| near | cerca de | The school is **near** my house. |
 
-Con palabras terminadas en **-s, -ss, -sh, -ch, -x, -z**:
+## In vs On: la diferencia clave
 
-| Singular | Plural |
-|---|---|
-| bus | buses |
-| glass | glasses |
-| dish | dishes |
-| watch | watches |
-| box | boxes |
+- **In** = dentro de un espacio cerrado: *in the box, in the car*
+- **On** = sobre una superficie: *on the table, on the wall*
 
-## Terminadas en "-y"
+## Preguntando ubicación
 
-- Consonante + y → **-ies**: *baby → babies*, *city → cities*
-- Vocal + y → solo **-s**: *toy → toys*, *day → days*
+> **Where is** the bathroom? → It's **next to** the kitchen.
+> **Where are** my glasses? → They're **on** the desk.
 
-## Terminadas en "-f"/"-fe"
+## Consejos de pronunciación
 
-Muchas cambian a **-ves**: *leaf → leaves*, *knife → knives* (excepciones: *roof → roofs*)
-
-## Plurales irregulares
-
-| Singular | Plural |
-|---|---|
-| man | men |
-| woman | women |
-| child | children |
-| foot | feet |
-| tooth | teeth |
-| mouse | mice |
-| person | people |
-
-## No cambian
-
-*sheep, fish, deer* — igual en singular y plural.
-
-## Pronunciación de la "-s" final
-
-- **/s/**: cats, books (después de sonido sordo)
-- **/z/**: dogs, cars (después de sonido sonoro)
-- **/ɪz/**: buses, dishes (después de -s, -sh, -ch, -x)
+- **Between** /bɪˈtwin/ — el sonido "tw" no existe en español.
+- **Behind** /bɪˈhaɪnd/ — la "h" se pronuncia claramente.
 
 ## Práctica
 
-1. Plural de: *box, city, wolf, sheep, child.*
-2. Identifica cuáles de esa lista son irregulares.
+1. Describe dónde están 3 objetos cerca de ti.
+2. Completa: *"The dog is ___ the table."* (debajo de)
 
 <details><summary>Ver respuestas</summary>
 
-1. boxes, cities, wolves, sheep, children
-2. sheep y children son irregulares
+2. under
 </details>

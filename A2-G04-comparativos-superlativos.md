@@ -1,47 +1,46 @@
-# A2 · Vocabulario 03 — Salud y Cuerpo (Health & Body)
+# A2 · Vocabulario 04 — Casa y Hogar (House & Home)
 
-## Partes del cuerpo
-
-| Inglés | Español |
-|---|---|
-| Head | Cabeza |
-| Arm | Brazo |
-| Leg | Pierna |
-| Stomach | Estómago |
-| Back | Espalda |
-| Throat | Garganta |
-
-## Síntomas y enfermedad
+## Habitaciones
 
 | Inglés | Español |
 |---|---|
-| Headache | Dolor de cabeza |
-| Fever | Fiebre |
-| Cough | Tos |
-| Sore throat | Dolor de garganta |
-| I feel sick | Me siento mal |
-| I have a cold | Tengo un resfriado |
+| Living room | Sala |
+| Bedroom | Dormitorio |
+| Kitchen | Cocina |
+| Bathroom | Baño |
+| Garden | Jardín |
+| Garage | Garaje |
 
-## En el consultorio
+## Muebles y objetos
 
 | Inglés | Español |
 |---|---|
-| Doctor's appointment | Cita médica |
-| Prescription | Receta médica |
-| Medicine | Medicina |
-| Pharmacy | Farmacia |
+| Sofa / Couch | Sofá |
+| Bed | Cama |
+| Table | Mesa |
+| Wardrobe / Closet | Ropero / Clóset |
+| Fridge | Refrigerador |
+| Sink | Fregadero |
+
+## Tareas del hogar
+
+| Inglés | Español |
+|---|---|
+| Clean the house | Limpiar la casa |
+| Do the laundry | Lavar la ropa |
+| Wash the dishes | Lavar los platos |
+| Take out the trash | Sacar la basura |
 
 ## Frases útiles
 
-> *What's wrong?* (¿Qué te pasa?)
-> *I have a headache.* (Tengo dolor de cabeza.)
-> *You should see a doctor.* (Deberías ver a un médico.)
+> *My house has three bedrooms.* (Mi casa tiene tres dormitorios.)
+> *I need to do the laundry today.* (Necesito lavar la ropa hoy.)
 
 ## Consejos de pronunciación
 
-- **Stomach** /ˈstʌmək/ — la "ch" suena como "k".
-- **Cough** /kɒf/ — la "gh" suena como "f".
+- **Wardrobe** /ˈwɔrdroʊb/.
+- **Laundry** /ˈlɔndri/.
 
 ## Práctica
 
-Describe cómo te sientes usando 3 síntomas.
+Describe tu casa: cuántas habitaciones tiene y qué hay en cada una.

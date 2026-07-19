@@ -1,75 +1,84 @@
-# A1 · Gramática 02 — Estructura de las Oraciones en Inglés
+# A1 · Gramática 06 — Verbos en Presente
 
-El inglés sigue una estructura de oración bastante rígida en comparación con otros idiomas. Comprender esta estructura es esencial para formar oraciones correctas y comunicarse con claridad.
+El presente en inglés se utiliza para hablar de hechos, rutinas, verdades universales y situaciones actuales. Existen tres formas principales de presente en inglés:
 
-## 2.1 Orden Básico de la Oración
+- Presente Simple (Simple Present)
+- Presente Continuo (Present Continuous)
+- Presente Perfecto (Present Perfect)
 
-En inglés, el orden más común de las palabras en una oración es:
+## 6.1 Presente Simple (Simple Present)
 
-> **Sujeto + Verbo + Complemento**
+El presente simple se usa para describir acciones habituales, hechos generales y verdades universales.
 
-🔹 **Ejemplo:**
-> *She loves music.* (Ella ama la música.)
-> - Sujeto: *She*
-> - Verbo: *loves*
-> - Complemento: *music*
+### Uso del Presente Simple
 
-## 2.2 Estructura en Oraciones Afirmativas, Negativas e Interrogativas
+✅ Rutinas y hábitos → *I wake up at 7 AM every day.* (Me despierto a las 7 AM todos los días.)
+✅ Verdades universales → *The sun rises in the east.* (El sol sale por el este.)
+✅ Hechos permanentes → *She works as a doctor.* (Ella trabaja como doctora.)
+✅ Horarios y programas → *The train leaves at 5 PM.* (El tren sale a las 5 PM.)
 
-📌 **Afirmativas**
-Siguen el orden estándar Sujeto + Verbo + Complemento.
-> *They play soccer.* (Ellos juegan al fútbol.)
+### Estructura del Presente Simple
 
-📌 **Negativas**
-Se usa el auxiliar *do/does/did + not* antes del verbo principal (en presente y pasado simple). En otros tiempos, se usa el auxiliar correspondiente con *not*.
-> *They do not play soccer.* (Ellos no juegan al fútbol.)
-> *She is not happy.* (Ella no está feliz.)
+✔ **Afirmativa**: Sujeto + verbo en infinitivo (añadiendo -s en la tercera persona del singular).
+> *He plays football on Sundays.* (Él juega al fútbol los domingos.)
 
-📌 **Interrogativas**
-Se invierte el orden del sujeto y el verbo auxiliar. Si no hay auxiliar, se usa *do/does/did* en tiempos simples.
-> *Do they play soccer?* (¿Ellos juegan al fútbol?)
-> *Is she happy?* (¿Ella está feliz?)
+✔ **Negativa**: Sujeto + do/does not (don't/doesn't) + verbo en infinitivo.
+> *She doesn't like coffee.* (A ella no le gusta el café.)
 
-## 2.3 Estructura en Diferentes Tipos de Oraciones
+✔ **Interrogativa**: Do/Does + sujeto + verbo en infinitivo.
+> *Do you speak Spanish?* (¿Hablas español?)
 
-✅ **Oraciones Simples**
-Tienen un solo verbo y expresan una idea completa.
-> *I study English every day.* (Yo estudio inglés todos los días.)
+🔹 **Reglas ortográficas en tercera persona del singular**:
+- Verbos que terminan en -s, -ss, -sh, -ch, -x, -o → Se les añade -es (*He watches TV*).
+- Verbos que terminan en consonante + y → La y cambia a -ies (*She studies English*).
 
-✅ **Oraciones Compuestas**
-Unen dos oraciones simples con una conjunción (*and, but, or, so*).
-> *I study English, and I practice speaking.* (Yo estudio inglés y practico hablar.)
+## 6.2 Presente Continuo (Present Continuous)
 
-✅ **Oraciones Complejas**
-Tienen una oración principal y una subordinada que depende de ella.
-> *I study English because I want to travel.* (Estudio inglés porque quiero viajar.)
+El presente continuo se usa para hablar de acciones que están ocurriendo en este momento o para expresar planes futuros.
 
-✅ **Oraciones Condicionales**
-Expresan condiciones con *if, unless, provided that*, etc.
-> *If you study, you will pass the exam.* (Si estudias, aprobarás el examen.)
+### Uso del Presente Continuo
 
-## 2.4 Posición de los Adverbios
+✅ Acciones en progreso → *She is studying right now.* (Ella está estudiando ahora mismo.)
+✅ Situaciones temporales → *I am working on a new project.* (Estoy trabajando en un nuevo proyecto.)
+✅ Planes futuros cercanos → *We are traveling to London next week.* (Viajaremos a Londres la próxima semana.)
 
-🔹 **Adverbios de frecuencia** (*always, never, sometimes, often, usually*)
+### Estructura del Presente Continuo
 
-Van antes del verbo principal, pero después del verbo *to be*.
-> *She always eats breakfast.* (Ella siempre desayuna.)
-> *He is usually late.* (Él suele llegar tarde.)
+✔ **Afirmativa**: Sujeto + to be (am/is/are) + verbo con -ing.
+> *They are watching a movie.* (Ellos están viendo una película.)
 
-🔹 **Adverbios de modo, lugar y tiempo** (*quickly, here, yesterday*)
+✔ **Negativa**: Sujeto + to be + not + verbo con -ing.
+> *I am not feeling well today.* (No me siento bien hoy.)
 
-Generalmente van al final de la oración.
-> *She spoke softly.* (Ella habló suavemente.)
-> *We met yesterday.* (Nos encontramos ayer.)
+✔ **Interrogativa**: To be + sujeto + verbo con -ing.
+> *Is she coming to the party?* (¿Ella viene a la fiesta?)
 
-## 2.5 Preguntas y Respuestas Cortas
+🔹 **Reglas ortográficas en la forma -ing**:
+- Verbos terminados en -e → Se elimina la -e antes de añadir -ing (*make → making*).
+- Verbos de una sola sílaba con consonante-vocal-consonante → Se duplica la última consonante (*run → running*).
 
-Las preguntas en inglés suelen comenzar con un verbo auxiliar (*do, does, did, can, will*).
+## 6.3 Presente Perfecto (Present Perfect)
 
-🔹 **Preguntas de Sí/No**
-> *Do you like coffee?* (¿Te gusta el café?)
-> Yes, I do. / No, I don't.
+El presente perfecto se usa para hablar de experiencias, acciones pasadas con relevancia en el presente y situaciones que han ocurrido en un periodo de tiempo no concluido.
 
-🔹 **Preguntas con Wh-**
-> *Where do you live?* (¿Dónde vives?)
-> I live in Spain. (Vivo en España.)
+### Uso del Presente Perfecto
+
+✅ Experiencias sin indicar cuándo ocurrieron → *I have visited Paris.* (He visitado París.)
+✅ Acciones pasadas con efecto en el presente → *She has lost her keys.* (Ella ha perdido sus llaves.)
+✅ Acciones que empezaron en el pasado y continúan → *They have lived here for five years.* (Han vivido aquí por cinco años.)
+
+### Estructura del Presente Perfecto
+
+✔ **Afirmativa**: Sujeto + have/has + verbo en participio pasado.
+> *He has finished his homework.* (Él ha terminado su tarea.)
+
+✔ **Negativa**: Sujeto + have/has not (haven't/hasn't) + verbo en participio pasado.
+> *I haven't seen that movie.* (No he visto esa película.)
+
+✔ **Interrogativa**: Have/Has + sujeto + verbo en participio pasado.
+> *Have you ever tried sushi?* (¿Alguna vez has probado sushi?)
+
+🔹 **Palabras clave del presente perfecto**:
+- **Ever / Never** → *Have you ever been to Spain?* (¿Alguna vez has estado en España?)
+- **Just** → *She has just arrived.* (Ella acaba de llegar.)
+- **Already / Yet** → *I have already finished my work.* (Ya he terminado mi trabajo.)

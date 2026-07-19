@@ -1,47 +1,69 @@
-# A2 · Gramática 04 — Comparativos y Superlativos
+# A2 · Gramática 02 — Verbos Modales Básicos
 
-Los adjetivos y adverbios en inglés pueden cambiar de forma para comparar personas, objetos o situaciones. Se dividen en comparativos (cuando comparamos dos elementos) y superlativos (cuando comparamos tres o más elementos y destacamos el extremo).
+Los verbos modales son auxiliares que modifican el significado del verbo principal, expresando posibilidad, obligación, permiso, habilidad o necesidad. No cambian con la persona y van seguidos de un verbo en infinitivo sin *to*.
 
-## 4.1 Comparativos
+## 2.1 Can / Could
 
-Los comparativos se usan para comparar dos cosas o personas. Se forman dependiendo de la cantidad de sílabas que tiene el adjetivo.
+Se usan para expresar habilidad, posibilidad o permiso.
 
-### Reglas para formar comparativos
+✅ **Can** (presente y futuro)
+- ✔️ Habilidad: *She can swim very well.* (Ella puede nadar muy bien.)
+- ✔️ Posibilidad: *We can go to the beach tomorrow.* (Podemos ir a la playa mañana.)
+- ✔️ Permiso: *Can I use your phone?* (¿Puedo usar tu teléfono?)
 
-✅ **Adjetivos cortos** (1 sílaba o terminados en "-y") → Se añade "-er" + than.
-- ✔️ *This book is smaller than that one.* (Este libro es más pequeño que ese.)
-- ✔️ *She is happier than before.* (Ella está más feliz que antes.)
+✅ **Could** (pasado y posibilidad en presente)
+- ✔️ Habilidad en el pasado: *When I was a child, I could run fast.* (Cuando era niño, podía correr rápido.)
+- ✔️ Petición formal: *Could you help me?* (¿Podrías ayudarme?)
+- ✔️ Posibilidad remota: *It could rain later.* (Podría llover más tarde.)
 
-✅ **Adjetivos largos** (2 o más sílabas) → Se usa "more" + adjetivo + than.
-- ✔️ *This movie is more interesting than the last one.* (Esta película es más interesante que la anterior.)
-- ✔️ *He is more intelligent than his brother.* (Él es más inteligente que su hermano.)
+## 2.2 May / Might
 
-✅ **Adjetivos irregulares**
-- ✔️ *Good → better than* (bueno → mejor que) → *This coffee is better than the one yesterday.*
-- ✔️ *Bad → worse than* (malo → peor que) → *The traffic today is worse than yesterday.*
+Se usan para expresar posibilidad o permiso.
 
-## 4.2 Superlativos
+✅ **May** (posibilidad en presente/futuro y permiso formal)
+- ✔️ Posibilidad: *She may come to the party.* (Ella puede que venga a la fiesta.)
+- ✔️ Permiso formal: *May I leave early?* (¿Puedo irme temprano?)
 
-Los superlativos se usan para comparar tres o más cosas o personas y destacar la que está en el extremo de la comparación.
+✅ **Might** (posibilidad menor que may)
+- ✔️ Posibilidad remota: *It might snow tomorrow.* (Puede que nieve mañana.)
 
-### Reglas para formar superlativos
+## 2.3 Must / Have to
 
-✅ **Adjetivos cortos** (1 sílaba o terminados en "-y") → Se añade "-est" y se usa *the*.
-- ✔️ *This is the smallest room in the house.* (Esta es la habitación más pequeña de la casa.)
-- ✔️ *She is the happiest person I know.* (Ella es la persona más feliz que conozco.)
+Se usan para expresar obligación o certeza.
 
-✅ **Adjetivos largos** (2 o más sílabas) → Se usa *the most* + adjetivo.
-- ✔️ *This is the most beautiful city in the country.* (Esta es la ciudad más hermosa del país.)
-- ✔️ *That was the most difficult exam of my life.* (Ese fue el examen más difícil de mi vida.)
+✅ **Must** (obligación fuerte y certeza)
+- ✔️ Obligación: *You must wear a seatbelt.* (Debes usar el cinturón de seguridad.)
+- ✔️ Certeza: *She must be at home.* (Ella debe estar en casa.)
 
-✅ **Adjetivos irregulares**
-- ✔️ *Good → the best* (bueno → el mejor) → *This is the best restaurant in town.*
-- ✔️ *Bad → the worst* (malo → el peor) → *That was the worst day of my life.*
+✅ **Have to** (obligación objetiva o impuesta por otros)
+- ✔️ *I have to go to work at 8 AM.* (Tengo que ir al trabajo a las 8 AM.)
 
-## 4.3 Otras estructuras de comparación
+🚨 **Diferencia**: *Must* implica una obligación personal, mientras que *have to* suele ser una regla externa.
 
-🔹 **"As… as"** (tan… como) → Para expresar igualdad.
-> *She is as tall as her sister.* (Ella es tan alta como su hermana.)
+## 2.4 Shall / Should
 
-🔹 **"Not as… as"** (no tan… como) → Para expresar inferioridad.
-> *This hotel is not as expensive as the other one.* (Este hotel no es tan caro como el otro.)
+Se usan para sugerencias y futuro formal.
+
+✅ **Shall** (formal, sugerencias y futuro)
+- ✔️ *Shall we go now?* (¿Nos vamos ahora?)
+- ✔️ *You shall receive your order soon.* (Recibirás tu pedido pronto.)
+
+✅ **Should** (consejo y probabilidad)
+- ✔️ Consejo: *You should eat more vegetables.* (Deberías comer más verduras.)
+- ✔️ Probabilidad: *He should be here by now.* (Debería estar aquí ya.)
+
+## 2.5 Will / Would
+
+Se usan para futuro y peticiones formales.
+
+✅ **Will** (futuro y promesas)
+- ✔️ *I will call you later.* (Te llamaré más tarde.)
+- ✔️ *She will always support you.* (Ella siempre te apoyará.)
+
+✅ **Would** (condicional, peticiones y cortesía)
+- ✔️ Condicional: *I would buy that car if I had money.* (Compraría ese coche si tuviera dinero.)
+- ✔️ Peticiones educadas: *Would you like some tea?* (¿Te gustaría un poco de té?)
+
+---
+
+Estos modales son esenciales para expresar distintas intenciones y matices en inglés. ¡Úsalos correctamente para mejorar tu comunicación!

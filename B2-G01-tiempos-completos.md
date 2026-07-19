@@ -1,45 +1,59 @@
-# A1 · Gramática 01 — El Alfabeto y la Pronunciación Básica
+# A1 · Gramática 07 — Preguntas y Respuestas Simples
 
-El alfabeto inglés consta de 26 letras, divididas en vocales y consonantes. Aunque las letras son las mismas que en el español, su pronunciación varía.
+Las preguntas y respuestas simples en inglés son esenciales para la comunicación cotidiana. Se utilizan en contextos informales y formales para obtener información, confirmar datos o entablar conversaciones básicas.
 
-## 1.1 Vocales en inglés
+## 7.1 Tipos de Preguntas en Inglés
 
-Las vocales en inglés son A, E, I, O, U. Cada una puede tener múltiples sonidos según la palabra en la que se encuentren.
+Existen dos tipos principales de preguntas en inglés:
 
-- **A** puede sonar como en *cat* (æ) o *cake* (eɪ).
-- **E** puede sonar como en *pen* (ɛ) o *be* (iː).
-- **I** puede sonar como en *bit* (ɪ) o *kite* (aɪ).
-- **O** puede sonar como en *dog* (ɔː) o *go* (oʊ).
-- **U** puede sonar como en *cup* (ʌ) o *blue* (uː).
+1. **Yes/No Questions** (Preguntas de sí o no) → Se responden con Yes o No.
+2. **Wh- Questions** (Preguntas con palabras interrogativas) → Se usan para obtener información específica.
 
-## 1.2 Consonantes en inglés
+## 7.2 Yes/No Questions (Preguntas de Sí o No)
 
-Las consonantes pueden ser similares al español, pero algunas tienen diferencias notables en su pronunciación:
+Estas preguntas comienzan con un verbo auxiliar (*do, does, is, are, was, were, have, has, can, will*, etc.). La estructura es:
 
-- **H** es aspirada, como en *hello* (hɛˈloʊ).
-- **R** es más suave que en español y no se pronuncia con vibración, como en *red* (ɹɛd).
-- **L** puede ser clara (*light*) o más profunda (*ball*).
-- **V** y **B** se diferencian claramente en inglés; *v* tiene sonido vibrante como en *very*.
-- **Th** tiene dos pronunciaciones:
-  - Suave: *this* (ðɪs).
-  - Fuerte: *think* (θɪŋk).
+✔ **Verbo auxiliar + sujeto + verbo principal + complemento**
 
-## 1.3 Combinaciones especiales de letras
+✅ **Ejemplos:**
+> *Do you like pizza?* (¿Te gusta la pizza?) → Yes, I do. / No, I don't.
+> *Is she your sister?* (¿Es ella tu hermana?) → Yes, she is. / No, she isn't.
+> *Have you ever been to London?* (¿Has estado alguna vez en Londres?) → Yes, I have. / No, I haven't.
 
-Algunas combinaciones de letras generan sonidos particulares:
+🔹 **Importante**: El verbo auxiliar depende del tiempo verbal de la oración.
 
-- **Ch** → Puede sonar como /ʧ/ en *chair* o /ʃ/ en *chef*.
-- **Sh** → Suena como /ʃ/ en *sheep*.
-- **Ph** → Suena como /f/ en *phone*.
-- **Wh** → En algunos casos suena como /w/ (*what*), pero en otros se aspira (*where*).
-- **Gh** → Puede sonar como /f/ (*laugh*) o ser muda (*night*).
-- **Tion** → Se pronuncia como /ʃən/, como en *station*.
+## 7.3 Wh- Questions (Preguntas con palabras interrogativas)
 
-## 1.4 Consejos para mejorar la pronunciación
+Estas preguntas comienzan con una palabra interrogativa como *what, where, when, who, why, how*, entre otras.
 
-- Escuchar hablantes nativos y repetir palabras en voz alta.
-- Usar diccionarios con transcripción fonética.
-- Practicar con canciones y películas en inglés.
-- Aprender las reglas de pronunciación de los sonidos más difíciles.
+### Palabras interrogativas más comunes
 
-Este es el primer paso para entender la gramática inglesa, ya que una buena pronunciación ayuda a mejorar la comprensión y la fluidez.
+| Palabra | Significado | Ejemplo |
+|---|---|---|
+| **What** | ¿Qué? / ¿Cuál? | *What is your name?* (¿Cuál es tu nombre?) |
+| **Where** | ¿Dónde? | *Where do you live?* (¿Dónde vives?) |
+| **When** | ¿Cuándo? | *When is your birthday?* (¿Cuándo es tu cumpleaños?) |
+| **Who** | ¿Quién? | *Who is your teacher?* (¿Quién es tu profesor?) |
+| **Why** | ¿Por qué? | *Why are you sad?* (¿Por qué estás triste?) |
+| **How** | ¿Cómo? | *How are you?* (¿Cómo estás?) |
+| **Which** | ¿Cuál? / ¿Cuáles? | *Which color do you prefer?* (¿Qué color prefieres?) |
+
+### Estructura de las Wh- Questions
+
+✔ **Palabra interrogativa + verbo auxiliar + sujeto + verbo principal + complemento**
+
+✅ **Ejemplos:**
+> *Where do you work?* (¿Dónde trabajas?) → *I work in a hospital.* (Trabajo en un hospital.)
+> *What does he study?* (¿Qué estudia él?) → *He studies medicine.* (Él estudia medicina.)
+> *Why are they late?* (¿Por qué llegan tarde?) → *Because there was traffic.* (Porque había tráfico.)
+
+🔹 **Importante**: En preguntas con *who* cuando se refiere al sujeto de la oración, no se usa auxiliar.
+> ✅ *Who called you?* (¿Quién te llamó?) — ❌ *Who did call you?*
+
+## 7.4 Respuestas Simples y Completas
+
+Las respuestas pueden ser cortas o largas dependiendo del contexto.
+
+✔ **Respuestas cortas:**
+> *Are you a student?* → Yes, I am. / No, I'm not.
+> *Does she like coffee?* → Yes, she does. / No, she doesn't.

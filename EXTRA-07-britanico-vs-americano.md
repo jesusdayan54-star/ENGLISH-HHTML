@@ -1,73 +1,47 @@
-# A2 · Gramática 01 — Tiempos Verbales en Pasado
+# A2 · Gramática 04 — Comparativos y Superlativos
 
-El pasado en inglés se usa para hablar de eventos, acciones o estados que ocurrieron en un momento anterior al presente. Hay varios tiempos verbales en pasado, cada uno con su propio uso y estructura.
+Los adjetivos y adverbios en inglés pueden cambiar de forma para comparar personas, objetos o situaciones. Se dividen en comparativos (cuando comparamos dos elementos) y superlativos (cuando comparamos tres o más elementos y destacamos el extremo).
 
-## 1.1 Pasado Simple (Past Simple)
+## 4.1 Comparativos
 
-Se usa para describir acciones completadas en un tiempo específico en el pasado.
+Los comparativos se usan para comparar dos cosas o personas. Se forman dependiendo de la cantidad de sílabas que tiene el adjetivo.
 
-✅ **Estructura:**
-- **Afirmativa**: Sujeto + verbo en pasado (segunda forma) + complemento.
-  > *She visited Paris last year.* (Ella visitó París el año pasado.)
-- **Negativa**: Sujeto + did not (didn't) + verbo en infinitivo + complemento.
-  > *They didn't go to the party.* (Ellos no fueron a la fiesta.)
-- **Interrogativa**: Did + sujeto + verbo en infinitivo + complemento + ?
-  > *Did you watch the movie yesterday?* (¿Viste la película ayer?)
+### Reglas para formar comparativos
 
-✅ **Usos:**
-- ✔️ Acciones terminadas en un momento concreto (*I met him in 2010.*)
-- ✔️ Secuencia de acciones en el pasado (*He woke up, got dressed, and left.*)
-- ✔️ Hábitos en el pasado (*When I was a child, I played football.*)
+✅ **Adjetivos cortos** (1 sílaba o terminados en "-y") → Se añade "-er" + than.
+- ✔️ *This book is smaller than that one.* (Este libro es más pequeño que ese.)
+- ✔️ *She is happier than before.* (Ella está más feliz que antes.)
 
-## 1.2 Pasado Continuo (Past Continuous)
+✅ **Adjetivos largos** (2 o más sílabas) → Se usa "more" + adjetivo + than.
+- ✔️ *This movie is more interesting than the last one.* (Esta película es más interesante que la anterior.)
+- ✔️ *He is more intelligent than his brother.* (Él es más inteligente que su hermano.)
 
-Describe acciones en progreso en un momento específico del pasado.
+✅ **Adjetivos irregulares**
+- ✔️ *Good → better than* (bueno → mejor que) → *This coffee is better than the one yesterday.*
+- ✔️ *Bad → worse than* (malo → peor que) → *The traffic today is worse than yesterday.*
 
-✅ **Estructura:**
-- **Afirmativa**: Sujeto + was/were + verbo en -ing + complemento.
-  > *She was studying all night.* (Ella estuvo estudiando toda la noche.)
-- **Negativa**: Sujeto + was/were not + verbo en -ing + complemento.
-  > *We weren't listening to the teacher.* (No estábamos escuchando al profesor.)
-- **Interrogativa**: Was/Were + sujeto + verbo en -ing + complemento + ?
-  > *Were they watching TV at 8 pm?* (¿Estaban viendo televisión a las 8 pm?)
+## 4.2 Superlativos
 
-✅ **Usos:**
-- ✔️ Acción en progreso en un momento concreto (*At 5 PM, I was driving home.*)
-- ✔️ Dos acciones simultáneas en el pasado (*She was cooking while he was reading.*)
-- ✔️ Acción interrumpida por otra (*I was sleeping when the phone rang.*)
+Los superlativos se usan para comparar tres o más cosas o personas y destacar la que está en el extremo de la comparación.
 
-## 1.3 Pasado Perfecto (Past Perfect)
+### Reglas para formar superlativos
 
-Se usa para indicar que una acción ocurrió antes que otra en el pasado.
+✅ **Adjetivos cortos** (1 sílaba o terminados en "-y") → Se añade "-est" y se usa *the*.
+- ✔️ *This is the smallest room in the house.* (Esta es la habitación más pequeña de la casa.)
+- ✔️ *She is the happiest person I know.* (Ella es la persona más feliz que conozco.)
 
-✅ **Estructura:**
-- **Afirmativa**: Sujeto + had + verbo en participio pasado + complemento.
-  > *She had finished the project before the deadline.* (Ella había terminado el proyecto antes de la fecha límite.)
-- **Negativa**: Sujeto + had not (hadn't) + verbo en participio pasado + complemento.
-  > *They hadn't seen that movie before.* (Ellos no habían visto esa película antes.)
-- **Interrogativa**: Had + sujeto + verbo en participio pasado + complemento + ?
-  > *Had you ever traveled alone before?* (¿Habías viajado solo antes?)
+✅ **Adjetivos largos** (2 o más sílabas) → Se usa *the most* + adjetivo.
+- ✔️ *This is the most beautiful city in the country.* (Esta es la ciudad más hermosa del país.)
+- ✔️ *That was the most difficult exam of my life.* (Ese fue el examen más difícil de mi vida.)
 
-✅ **Usos:**
-- ✔️ Acción que ocurrió antes de otra en el pasado (*He had left when I arrived.*)
-- ✔️ Expresar causa y efecto (*She was sad because she had lost her job.*)
+✅ **Adjetivos irregulares**
+- ✔️ *Good → the best* (bueno → el mejor) → *This is the best restaurant in town.*
+- ✔️ *Bad → the worst* (malo → el peor) → *That was the worst day of my life.*
 
-## 1.4 Pasado Perfecto Continuo (Past Perfect Continuous)
+## 4.3 Otras estructuras de comparación
 
-Se usa para acciones que estuvieron en progreso hasta un punto en el pasado.
+🔹 **"As… as"** (tan… como) → Para expresar igualdad.
+> *She is as tall as her sister.* (Ella es tan alta como su hermana.)
 
-✅ **Estructura:**
-- **Afirmativa**: Sujeto + had been + verbo en -ing + complemento.
-  > *She had been studying for hours before the exam.* (Ella había estado estudiando durante horas antes del examen.)
-- **Negativa**: Sujeto + had not been + verbo en -ing + complemento.
-  > *They hadn't been working there for long.* (Ellos no habían estado trabajando allí por mucho tiempo.)
-- **Interrogativa**: Had + sujeto + been + verbo en -ing + complemento + ?
-  > *Had he been waiting for a long time?* (¿Había estado esperando mucho tiempo?)
-
-✅ **Usos:**
-- ✔️ Acción continua que terminó antes de otro evento pasado (*I had been living in London for five years before moving to Paris.*)
-- ✔️ Expresar la duración de una acción en el pasado (*They had been arguing for hours before they stopped.*)
-
----
-
-Estos tiempos verbales son fundamentales para hablar sobre el pasado con precisión. Ahora que conoces sus estructuras y usos, podrás aplicarlos correctamente en diferentes contextos.
+🔹 **"Not as… as"** (no tan… como) → Para expresar inferioridad.
+> *This hotel is not as expensive as the other one.* (Este hotel no es tan caro como el otro.)
