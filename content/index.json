@@ -1,0 +1,243 @@
+{
+  "levels": [
+    {
+      "code": "A1",
+      "label": "Principiante",
+      "color": "#7FA37F",
+      "desc": "Estructura básica, verbos esenciales y vocabulario inicial.",
+      "groups": [
+        {
+          "key": "grammar",
+          "items": [
+            {
+              "file": "lessons/A1/grammar/A1-G01-alfabeto-pronunciacion.md",
+              "title": "A1 · Gramática 01 — El Alfabeto y la Pronunciación Básica"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G02-estructura-oraciones.md",
+              "title": "A1 · Gramática 02 — Estructura de las Oraciones en Inglés"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G03-sustantivos-articulos.md",
+              "title": "A1 · Gramática 03 — Sustantivos y Artículos"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G04-adjetivos-adverbios.md",
+              "title": "A1 · Gramática 04 — Adjetivos y Adverbios"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G05-pronombres.md",
+              "title": "A1 · Gramática 05 — Pronombres"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G06-verbos-presente.md",
+              "title": "A1 · Gramática 06 — Verbos en Presente"
+            },
+            {
+              "file": "lessons/A1/grammar/A1-G07-preguntas-respuestas.md",
+              "title": "A1 · Gramática 07 — Preguntas y Respuestas Simples"
+            }
+          ]
+        },
+        {
+          "key": "vocabulary",
+          "items": [
+            {
+              "file": "lessons/A1/vocabulary/A1-V01-saludos.md",
+              "title": "A1.02 – Saludos y Presentaciones"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V02-numeros.md",
+              "title": "A1.05 – Números del 0 al 100"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V03-familia.md",
+              "title": "A1.08 – Vocabulario: La Familia"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V04-colores-formas.md",
+              "title": "A1.09 – Colores y Formas"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V05-dias-meses.md",
+              "title": "A1.10 – Días de la Semana y Meses"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V06-hora.md",
+              "title": "A1.11 – Decir la Hora"
+            },
+            {
+              "file": "lessons/A1/vocabulary/A1-V07-comida.md",
+              "title": "A1.16 – Vocabulario: Comida y Bebida"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "A2",
+      "label": "Básico",
+      "color": "#6FA8A0",
+      "desc": "Frases más complejas, pasado y modales básicos.",
+      "groups": [
+        {
+          "key": "grammar",
+          "items": [
+            {
+              "file": "lessons/A2/grammar/A2-G01-tiempos-pasado.md",
+              "title": "A2 · Gramática 01 — Tiempos Verbales en Pasado"
+            },
+            {
+              "file": "lessons/A2/grammar/A2-G02-verbos-modales.md",
+              "title": "A2 · Gramática 02 — Verbos Modales Básicos"
+            },
+            {
+              "file": "lessons/A2/grammar/A2-G03-preposiciones-lugar-tiempo.md",
+              "title": "A2 · Gramática 03 — Preposiciones de Lugar y Tiempo"
+            },
+            {
+              "file": "lessons/A2/grammar/A2-G04-comparativos-superlativos.md",
+              "title": "A2 · Gramática 04 — Comparativos y Superlativos"
+            },
+            {
+              "file": "lessons/A2/grammar/A2-G05-conectores-basicos.md",
+              "title": "A2 · Gramática 05 — Conectores Básicos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B1",
+      "label": "Intermedio",
+      "color": "#5B7DB1",
+      "desc": "Futuro, voz pasiva, condicionales y estilo indirecto.",
+      "groups": [
+        {
+          "key": "grammar",
+          "items": [
+            {
+              "file": "lessons/B1/grammar/B1-G01-futuro.md",
+              "title": "B1 · Gramática 01 — El Futuro en Inglés"
+            },
+            {
+              "file": "lessons/B1/grammar/B1-G02-voz-pasiva-intro.md",
+              "title": "B1 · Gramática 02 — Voz Pasiva (Introducción)"
+            },
+            {
+              "file": "lessons/B1/grammar/B1-G03-condicionales-basicos.md",
+              "title": "B1 · Gramática 03 — Condicionales"
+            },
+            {
+              "file": "lessons/B1/grammar/B1-G04-verbos-modales-contexto.md",
+              "title": "B1 · Gramática 04 — Verbos Modales en Contexto"
+            },
+            {
+              "file": "lessons/B1/grammar/B1-G05-phrasal-verbs.md",
+              "title": "B1 · Gramática 05 — Phrasal Verbs Comunes"
+            },
+            {
+              "file": "lessons/B1/grammar/B1-G06-reported-speech.md",
+              "title": "B1 · Gramática 06 — Reported Speech (Estilo Indirecto)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "B2",
+      "label": "Intermedio Alto",
+      "color": "#2B3A67",
+      "desc": "Los 12 tiempos, condicionales avanzados y conectores complejos.",
+      "groups": [
+        {
+          "key": "grammar",
+          "items": [
+            {
+              "file": "lessons/B2/grammar/B2-G01-tiempos-completos.md",
+              "title": "B2 · Gramática 01 — Los 12 Tiempos Verbales Completos"
+            },
+            {
+              "file": "lessons/B2/grammar/B2-G02-condicionales-avanzados.md",
+              "title": "B2 · Gramática 02 — Condicionales Avanzados"
+            },
+            {
+              "file": "lessons/B2/grammar/B2-G03-voz-pasiva-avanzada.md",
+              "title": "B2 · Gramática 03 — Voz Pasiva Avanzada"
+            },
+            {
+              "file": "lessons/B2/grammar/B2-G04-expresiones-idiomaticas.md",
+              "title": "B2 · Gramática 04 — Expresiones Idiomáticas y Vocabulario Avanzado"
+            },
+            {
+              "file": "lessons/B2/grammar/B2-G05-conectores-complejos.md",
+              "title": "B2 · Gramática 05 — Uso de Conectores Complejos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "C1",
+      "label": "Avanzado",
+      "color": "#8B4B6B",
+      "desc": "Estructuras cultas, modismos y matices finos.",
+      "groups": [
+        {
+          "key": "grammar",
+          "items": [
+            {
+              "file": "lessons/C1/grammar/C1-G01-estructuras-avanzadas.md",
+              "title": "C1 · Gramática 01 — Estructuras Gramaticales Avanzadas"
+            },
+            {
+              "file": "lessons/C1/grammar/C1-G02-modismos-expresiones.md",
+              "title": "C1 · Gramática 02 — Modismos y Expresiones Idiomáticas"
+            },
+            {
+              "file": "lessons/C1/grammar/C1-G03-estilo-coherencia.md",
+              "title": "C1 · Gramática 03 — Perfeccionamiento del Estilo y Coherencia"
+            },
+            {
+              "file": "lessons/C1/grammar/C1-G04-matices-tiempos.md",
+              "title": "C1 · Gramática 04 — Matices en los Tiempos Verbales"
+            },
+            {
+              "file": "lessons/C1/grammar/C1-G05-conectores-cohesion.md",
+              "title": "C1 · Gramática 05 — Conectores Avanzados y Cohesión Textual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "EXTRA",
+      "label": "Anexos",
+      "color": "#B08650",
+      "desc": "Tablas de referencia rápida para consulta.",
+      "groups": [
+        {
+          "key": "anexos",
+          "items": [
+            {
+              "file": "lessons/EXTRA/EXTRA-01-resumen-tiempos-verbales.md",
+              "title": "EXTRA · Anexo 01 — Resumen de los Tiempos Verbales"
+            },
+            {
+              "file": "lessons/EXTRA/EXTRA-02-verbos-irregulares.md",
+              "title": "EXTRA · Anexo 02 — Lista Completa de Verbos Irregulares"
+            },
+            {
+              "file": "lessons/EXTRA/EXTRA-03-expresiones-con-verbos.md",
+              "title": "EXTRA · Anexo 03 — Expresiones Comunes con Verbos"
+            },
+            {
+              "file": "lessons/EXTRA/EXTRA-04-verbos-con-preposiciones.md",
+              "title": "EXTRA · Anexo 04 — Verbos con Preposiciones"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
