@@ -10,9 +10,44 @@ const GROUP_LABELS = {
   anexos: "Anexos"
 };
 
+// ---------- PROGRESS TRACKING (localStorage) ----------
+const PROGRESS_KEY = "englishPathProgress";
+
+function getProgress() {
+  try {
+    return JSON.parse(localStorage.getItem(PROGRESS_KEY)) || {};
+  } catch (e) {
+    return {};
+  }
+}
+
+function markLessonRead(file) {
+  const progress = getProgress();
+  progress[file] = true;
+  try {
+    localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+  } catch (e) { /* storage unavailable, fail silently */ }
+}
+
+function isLessonRead(file) {
+  const progress = getProgress();
+  return !!progress[file];
+}
+
+function countReadInList(files) {
+  const progress = getProgress();
+  return files.filter(f => progress[f]).length;
+}
+
 async function loadIndex() {
   const res = await fetch("content/index.json");
+  if (!res.ok) throw new Error(`No se pudo cargar el índice (${res.status})`);
   return res.json();
+}
+
+function showLoadError(container, message) {
+  if (!container) return;
+  container.innerHTML = `<div class="load-error">⚠️ ${message}<br><small>Intenta recargar la página (Ctrl+F5 / Cmd+Shift+R).</small></div>`;
 }
 
 function qs(param) {
@@ -25,11 +60,23 @@ async function renderHome() {
   const anexosTrack = document.getElementById("anexos-track");
   if (!track) return;
 
-  const data = await loadIndex();
+  let data;
+  try {
+    data = await loadIndex();
+  } catch (e) {
+    showLoadError(track, "No se pudo cargar el mapa del curso.");
+    return;
+  }
+
+  track.innerHTML = "";
 
   data.levels.forEach(level => {
     if (level.code === "EXTRA") return; // rendered separately below
-    const totalItems = level.groups.reduce((sum, g) => sum + g.items.length, 0);
+    const allFiles = level.groups.flatMap(g => g.items.map(i => i.file));
+    const totalItems = allFiles.length;
+    const readCount = countReadInList(allFiles);
+    const pct = totalItems ? Math.round((readCount / totalItems) * 100) : 0;
+
     const row = document.createElement("a");
     row.href = `level.html?level=${level.code}`;
     row.className = "level-row";
@@ -39,15 +86,35 @@ async function renderHome() {
       <div class="level-info">
         <h3>${level.label}<span class="level-tag" style="background:${level.color}">${level.code}</span></h3>
         <p>${level.desc}</p>
+        <div class="progress-track" aria-hidden="true">
+          <div class="progress-fill" style="width:${pct}%;background:${level.color}"></div>
+        </div>
       </div>
-      <div class="level-count"><strong>${totalItems}</strong>temas</div>
+      <div class="level-count">
+        <strong>${totalItems}</strong>temas
+        ${readCount > 0 ? `<span class="progress-label" style="color:${level.color}">${readCount}/${totalItems} vistos</span>` : ""}
+      </div>
     `;
     track.appendChild(row);
   });
 
+  // Overall progress summary
+  const overallEl = document.getElementById("overall-progress");
+  if (overallEl) {
+    const allLessonFiles = data.levels
+      .filter(l => l.code !== "EXTRA")
+      .flatMap(l => l.groups.flatMap(g => g.items.map(i => i.file)));
+    const totalRead = countReadInList(allLessonFiles);
+    if (totalRead > 0) {
+      const pct = Math.round((totalRead / allLessonFiles.length) * 100);
+      overallEl.innerHTML = `<span class="overall-badge">🔥 ${totalRead}/${allLessonFiles.length} lecciones vistas (${pct}%)</span>`;
+    }
+  }
+
   // Anexos as cards
   const extra = data.levels.find(l => l.code === "EXTRA");
   if (extra && anexosTrack) {
+    anexosTrack.innerHTML = "";
     extra.groups.forEach(g => {
       g.items.forEach((item, i) => {
         const card = document.createElement("a");
@@ -70,7 +137,13 @@ async function renderLevel() {
   if (!container) return;
 
   const levelCode = qs("level");
-  const data = await loadIndex();
+  let data;
+  try {
+    data = await loadIndex();
+  } catch (e) {
+    showLoadError(container, "No se pudo cargar este nivel.");
+    return;
+  }
   const level = data.levels.find(l => l.code === levelCode);
   if (!level) {
     container.innerHTML = "<p>Nivel no encontrado.</p>";
@@ -87,18 +160,21 @@ async function renderLevel() {
     const block = document.createElement("div");
     block.className = "group-block";
     const label = GROUP_LABELS[group.key] || group.key;
+    const groupFiles = group.items.map(i => i.file);
+    const readInGroup = countReadInList(groupFiles);
     let cardsHTML = "";
     group.items.forEach((item, i) => {
       const shortTitle = item.title
         .replace(/^[A-Za-z0-9]+([.·]\d*)?\s*[·.]?\s*(Gramática|Vocabulario|Anexo)?\s*\d*\s*[—–-]\s*/, "")
         .trim() || item.title;
+      const isRead = isLessonRead(item.file);
       cardsHTML += `
-        <a class="topic-card" href="lesson.html?file=${encodeURIComponent(item.file)}&level=${level.code}">
-          <span class="topic-num">${String(i + 1).padStart(2, "0")}</span>
+        <a class="topic-card ${isRead ? "is-read" : ""}" href="lesson.html?file=${encodeURIComponent(item.file)}&level=${level.code}">
+          <span class="topic-num">${isRead ? "✓" : String(i + 1).padStart(2, "0")}</span>
           <h4>${shortTitle}</h4>
         </a>`;
     });
-    block.innerHTML = `<h3>${label}</h3><div class="topic-grid">${cardsHTML}</div>`;
+    block.innerHTML = `<h3>${label} <span class="group-progress">${readInGroup}/${group.items.length}</span></h3><div class="topic-grid">${cardsHTML}</div>`;
     container.appendChild(block);
   });
 }
@@ -110,7 +186,13 @@ async function renderLesson() {
 
   const file = qs("file");
   const levelCode = qs("level");
-  const data = await loadIndex();
+  let data;
+  try {
+    data = await loadIndex();
+  } catch (e) {
+    showLoadError(mdContainer, "No se pudo cargar la lección.");
+    return;
+  }
 
   // Build flat ordered list of all lessons for prev/next + sidebar
   const flatLessons = [];
@@ -129,6 +211,8 @@ async function renderLesson() {
     mdContainer.innerHTML = "<p>Lección no encontrada.</p>";
     return;
   }
+
+  markLessonRead(current.file);
 
   // Fetch and render markdown
   try {
@@ -161,7 +245,9 @@ async function renderLesson() {
           lineColor: "#8B4B6B",
           fontFamily: "Inter, sans-serif",
           fontSize: "14px"
-        }
+        },
+        flowchart: { useMaxWidth: true },
+        mindmap: { useMaxWidth: true }
       });
       mermaid.run({ querySelector: ".mermaid" });
     }
@@ -185,10 +271,12 @@ async function renderLesson() {
       navHTML += `<div class="nav-level-label">${GROUP_LABELS[group.key] || group.key}</div>`;
       group.items.forEach((item, i) => {
         const isCurrent = item.file === current.file;
+        const isRead = isLessonRead(item.file);
         const shortTitle = item.title
           .replace(/^[A-Za-z0-9]+([.·]\d*)?\s*[·.]?\s*(Gramática|Vocabulario|Anexo)?\s*\d*\s*[—–-]\s*/, "")
           .trim() || item.title;
-        navHTML += `<a href="lesson.html?file=${encodeURIComponent(item.file)}&level=${current.levelCode}" class="${isCurrent ? "current" : ""}">${i + 1}. ${shortTitle}</a>`;
+        const marker = isRead ? '<span class="nav-check">✓</span>' : `<span class="nav-num">${i + 1}.</span>`;
+        navHTML += `<a href="lesson.html?file=${encodeURIComponent(item.file)}&level=${current.levelCode}" class="${isCurrent ? "current" : ""} ${isRead ? "is-read" : ""}">${marker} ${shortTitle}</a>`;
       });
     });
     navContainer.innerHTML = navHTML;
@@ -214,9 +302,71 @@ async function renderLesson() {
   }
 }
 
+// ---------- QUICK SEARCH & RANDOM LESSON (home page) ----------
+async function initHomeTools() {
+  const searchInput = document.getElementById("quick-search");
+  const resultsBox = document.getElementById("search-results");
+  const randomBtn = document.getElementById("random-lesson-btn");
+  if (!searchInput && !randomBtn) return;
+
+  let data;
+  try {
+    data = await loadIndex();
+  } catch (e) {
+    return;
+  }
+
+  const flatLessons = [];
+  data.levels.forEach(level => {
+    level.groups.forEach(group => {
+      group.items.forEach(item => {
+        const shortTitle = item.title
+          .replace(/^[A-Za-z0-9]+([.·]\d*)?\s*[·.]?\s*(Gramática|Vocabulario|Anexo)?\s*\d*\s*[—–-]\s*/, "")
+          .trim() || item.title;
+        flatLessons.push({ ...item, shortTitle, levelCode: level.code, levelColor: level.color });
+      });
+    });
+  });
+
+  if (searchInput) {
+    searchInput.addEventListener("input", () => {
+      const q = searchInput.value.trim().toLowerCase();
+      if (!q) {
+        resultsBox.classList.remove("open");
+        resultsBox.innerHTML = "";
+        return;
+      }
+      const matches = flatLessons.filter(l => l.shortTitle.toLowerCase().includes(q)).slice(0, 8);
+      if (matches.length === 0) {
+        resultsBox.innerHTML = `<div class="search-empty">Sin resultados para "${q}"</div>`;
+      } else {
+        resultsBox.innerHTML = matches.map(l => `
+          <a class="search-result-item" href="lesson.html?file=${encodeURIComponent(l.file)}&level=${l.levelCode}">
+            <span class="sr-level" style="background:${l.levelColor}">${l.levelCode}</span>${l.shortTitle}
+          </a>`).join("");
+      }
+      resultsBox.classList.add("open");
+    });
+
+    document.addEventListener("click", (e) => {
+      if (!searchInput.contains(e.target) && !resultsBox.contains(e.target)) {
+        resultsBox.classList.remove("open");
+      }
+    });
+  }
+
+  if (randomBtn) {
+    randomBtn.addEventListener("click", () => {
+      const pick = flatLessons[Math.floor(Math.random() * flatLessons.length)];
+      window.location.href = `lesson.html?file=${encodeURIComponent(pick.file)}&level=${pick.levelCode}`;
+    });
+  }
+}
+
 // ---------- INIT ----------
 document.addEventListener("DOMContentLoaded", () => {
   renderHome();
   renderLevel();
   renderLesson();
+  initHomeTools();
 });

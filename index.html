@@ -18,7 +18,6 @@
 <header class="site-header">
   <a href="index.html" class="brand">
     <span class="brand-mark">✒</span>
-    <span class="brand-text">The English Path</span>
   </a>
   <nav class="site-nav">
     <a href="index.html" class="active">Mapa del curso</a>
@@ -37,6 +36,14 @@
         con mapas conceptuales, transcripción fonética y ejercicios en cada parada del camino.
       </p>
       <a href="#niveles" class="hero-cta">Empezar el recorrido ↓</a>
+      <div class="hero-tools">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="quick-search" placeholder="Buscar un tema… (ej. condicionales, phrasal verbs)" autocomplete="off">
+          <div id="search-results" class="search-results"></div>
+        </div>
+        <button id="random-lesson-btn" class="random-btn" type="button">🎲 Lección aleatoria</button>
+      </div>
     </div>
     <svg class="hero-path" viewBox="0 0 900 200" preserveAspectRatio="none" aria-hidden="true">
       <path d="M0,150 C150,50 250,180 400,100 S650,20 900,90" fill="none" stroke="url(#pathGrad)" stroke-width="2" stroke-dasharray="6 8"/>
@@ -54,8 +61,13 @@
     <div class="section-head">
       <span class="section-num">El recorrido</span>
       <h2>Seis niveles, un solo camino</h2>
+      <div id="overall-progress" class="overall-progress"></div>
     </div>
-    <div id="levels-track" class="levels-track"><!-- JS inyecta niveles --></div>
+    <div id="levels-track" class="levels-track">
+      <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
+    </div>
   </section>
 
   <section id="anexos" class="anexos-teaser">
@@ -63,7 +75,12 @@
       <span class="section-num">Consulta rápida</span>
       <h2>Anexos de referencia</h2>
     </div>
-    <div id="anexos-track" class="anexos-track"><!-- JS inyecta anexos --></div>
+    <div id="anexos-track" class="anexos-track">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
   </section>
 </main>
 
