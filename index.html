@@ -4,75 +4,127 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The English Path — Domina la Gramática Inglesa</title>
-<meta name="description" content="Curso completo de gramática inglesa de A1 a C1, con mapas conceptuales, IPA y práctica.">
+<meta name="description" content="Curso completo de gramática inglesa de A1 a C1, con mapas conceptuales, IPA y práctica. Gratis y sin registro.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.0/marked.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.0/mermaid.min.js"></script>
 </head>
 <body>
 
 <div class="grain"></div>
 
 <header class="site-header">
-  <a href="index.html" class="brand">
+  <a href="index.html" class="brand" aria-label="Inicio">
     <span class="brand-mark">✒</span>
   </a>
   <nav class="site-nav">
-    <a href="index.html" class="active">Mapa del curso</a>
+    <a href="index.html" class="active">Inicio</a>
     <a href="#niveles">Niveles</a>
+    <a href="#metodo">Método</a>
     <a href="#anexos">Anexos</a>
   </nav>
-</div>
+</header>
 
 <main>
+  <!-- ============ HERO: split layout ============ -->
   <section class="hero">
-    <div class="hero-inner">
-      <p class="eyebrow">Un cuaderno de bitácora para aprender inglés</p>
-      <h1>De la primera letra<br>a pensar <em>en inglés</em>.</h1>
-      <p class="hero-sub">
-        Seis niveles, treinta y siete lecciones y cuatro anexos de referencia —
-        con mapas conceptuales, transcripción fonética y ejercicios en cada parada del camino.
-      </p>
-      <a href="#niveles" class="hero-cta">Empezar el recorrido ↓</a>
-      <div class="hero-tools">
-        <div class="search-box">
-          <span class="search-icon">🔍</span>
-          <input type="text" id="quick-search" placeholder="Buscar un tema… (ej. condicionales, phrasal verbs)" autocomplete="off">
-          <div id="search-results" class="search-results"></div>
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Curso completo · Gratis · Sin registro</p>
+        <h1>De la primera letra a pensar <em>en inglés</em>.</h1>
+        <p class="hero-sub">
+          Gramática estructurada de A1 a C1 con mapas conceptuales,
+          transcripción fonética (IPA) y ejercicios en cada lección.
+        </p>
+        <div class="hero-tools">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="quick-search" placeholder="Buscar un tema… (ej. condicionales)" autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+          </div>
+          <button id="random-lesson-btn" class="random-btn" type="button">🎲 Aleatoria</button>
         </div>
-        <button id="random-lesson-btn" class="random-btn" type="button">🎲 Lección aleatoria</button>
+        <a href="#niveles" class="hero-cta">Empezar el recorrido ↓</a>
       </div>
+
+      <aside class="hero-panel" aria-label="Resumen del curso">
+        <div class="panel-stat">
+          <span class="stat-number">40</span>
+          <span class="stat-label">lecciones completas</span>
+        </div>
+        <div class="panel-stat">
+          <span class="stat-number">6</span>
+          <span class="stat-label">niveles A1 → C1</span>
+        </div>
+        <div class="panel-stat">
+          <span class="stat-number">4</span>
+          <span class="stat-label">anexos de referencia</span>
+        </div>
+        <div class="panel-levels" aria-hidden="true">
+          <span class="mini-dot" style="background:#7FA37F">A1</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#6FA8A0">A2</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#5B7DB1">B1</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#2B3A67">B2</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#8B4B6B">C1</span>
+        </div>
+        <div id="hero-progress" class="hero-progress"></div>
+      </aside>
     </div>
-    <svg class="hero-path" viewBox="0 0 900 200" preserveAspectRatio="none" aria-hidden="true">
-      <path d="M0,150 C150,50 250,180 400,100 S650,20 900,90" fill="none" stroke="url(#pathGrad)" stroke-width="2" stroke-dasharray="6 8"/>
-      <defs>
-        <linearGradient id="pathGrad" x1="0" y1="0" x2="1" y2="0">
-          <stop offset="0%" stop-color="#7FA37F"/>
-          <stop offset="50%" stop-color="#2B3A67"/>
-          <stop offset="100%" stop-color="#8B4B6B"/>
-        </linearGradient>
-      </defs>
-    </svg>
   </section>
 
+  <!-- ============ LEVELS ============ -->
   <section id="niveles" class="levels-map">
     <div class="section-head">
-      <span class="section-num">El recorrido</span>
+      <span class="section-num">01 · El recorrido</span>
       <h2>Seis niveles, un solo camino</h2>
-      <div id="overall-progress" class="overall-progress"></div>
     </div>
     <div id="levels-track" class="levels-track">
       <div class="skeleton-row"></div>
       <div class="skeleton-row"></div>
       <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
     </div>
   </section>
 
+  <!-- ============ METHOD (new value section) ============ -->
+  <section id="metodo" class="method-band">
+    <div class="section-head">
+      <span class="section-num">02 · Cómo estudiar</span>
+      <h2>Un método, no solo teoría</h2>
+    </div>
+    <div class="method-grid">
+      <article class="method-card">
+        <span class="method-num">1</span>
+        <h3>Lee la teoría</h3>
+        <p>Cada lección explica el concepto en español claro, con tablas y mapas conceptuales que muestran cómo se conecta todo.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">2</span>
+        <h3>Estudia los ejemplos</h3>
+        <p>Ejemplos reales con traducción y transcripción IPA en palabras difíciles. Léelos en voz alta: el oído también aprende.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">3</span>
+        <h3>Haz la práctica</h3>
+        <p>Al final de cada lección hay ejercicios con respuestas ocultas. Intenta primero, verifica después.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">4</span>
+        <h3>Vuelve y repasa</h3>
+        <p>Tu progreso se guarda en este navegador. Usa la lección aleatoria 🎲 para repaso espaciado: la memoria se construye volviendo.</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- ============ ANEXOS ============ -->
   <section id="anexos" class="anexos-teaser">
     <div class="section-head">
-      <span class="section-num">Consulta rápida</span>
+      <span class="section-num">03 · Consulta rápida</span>
       <h2>Anexos de referencia</h2>
     </div>
     <div id="anexos-track" class="anexos-track">
@@ -85,9 +137,9 @@
 </main>
 
 <footer class="site-footer">
-  <p>Basado en <em>"Domina la Gramática Inglesa"</em> de Jesus Dayan Trigos · Ampliado con diagramas, IPA y ejercicios.</p>
+  <p class="footer-credit">Basado en <em>"Domina la Gramática Inglesa"</em> · Jesus Dayan Trigos</p>
 </footer>
 
-<script src="app.js"></script>
+<script src="app.js" defer></script>
 </body>
 </html>

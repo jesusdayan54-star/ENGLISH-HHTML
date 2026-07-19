@@ -98,8 +98,8 @@ async function renderHome() {
     track.appendChild(row);
   });
 
-  // Overall progress summary
-  const overallEl = document.getElementById("overall-progress");
+  // Overall progress summary (hero panel)
+  const overallEl = document.getElementById("hero-progress");
   if (overallEl) {
     const allLessonFiles = data.levels
       .filter(l => l.code !== "EXTRA")
@@ -108,6 +108,8 @@ async function renderHome() {
     if (totalRead > 0) {
       const pct = Math.round((totalRead / allLessonFiles.length) * 100);
       overallEl.innerHTML = `<span class="overall-badge">🔥 ${totalRead}/${allLessonFiles.length} lecciones vistas (${pct}%)</span>`;
+    } else {
+      overallEl.innerHTML = `<span class="overall-badge">Tu progreso aparecerá aquí</span>`;
     }
   }
 
