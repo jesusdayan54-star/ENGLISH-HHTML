@@ -1,53 +1,145 @@
-# B2 · Vocabulario 05 — Describir Tendencias y Datos (Describing Trends & Data)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The English Path — Domina la Gramática Inglesa</title>
+<meta name="description" content="Curso completo de gramática inglesa de A1 a C1, con mapas conceptuales, IPA y práctica. Gratis y sin registro.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=6">
+</head>
+<body>
 
-Vocabulario esencial para describir gráficos, estadísticas y cambios a lo largo del tiempo — muy útil en presentaciones y textos informativos.
+<div class="grain"></div>
 
-## Verbos de tendencia: subida
+<header class="site-header">
+  <a href="index.html" class="brand" aria-label="Inicio">
+    <span class="brand-mark">✒</span>
+  </a>
+  <nav class="site-nav">
+    <a href="index.html" class="active">Inicio</a>
+    <a href="#niveles">Niveles</a>
+    <a href="#metodo">Método</a>
+    <a href="#anexos">Anexos</a>
+  </nav>
+</header>
 
-| Inglés | Español |
-|---|---|
-| To increase / rise | Aumentar |
-| To grow | Crecer |
-| To soar | Dispararse (subida fuerte) |
-| To peak | Alcanzar su punto máximo |
+<main>
+  <!-- ============ HERO: split layout ============ -->
+  <section class="hero">
+    <div class="hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Curso completo · Gratis · Sin registro</p>
+        <h1>De la primera letra a pensar <em>en inglés</em>.</h1>
+        <p class="hero-sub">
+          Gramática estructurada de A1 a C1 con mapas conceptuales,
+          transcripción fonética (IPA) y ejercicios en cada lección.
+        </p>
+        <div class="hero-tools">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="quick-search" placeholder="Buscar un tema… (ej. condicionales)" autocomplete="off">
+            <div id="search-results" class="search-results"></div>
+          </div>
+          <button id="random-lesson-btn" class="random-btn" type="button">🎲 Aleatoria</button>
+        </div>
+        <a href="#niveles" class="hero-cta">Empezar el recorrido ↓</a>
+      </div>
 
-## Verbos de tendencia: bajada
+      <aside class="hero-panel" aria-label="Resumen del curso">
+        <div class="panel-stat">
+          <span class="stat-number">89</span>
+          <span class="stat-label">temas completos</span>
+        </div>
+        <div class="panel-stat">
+          <span class="stat-number">6</span>
+          <span class="stat-label">niveles A1 → C1</span>
+        </div>
+        <div class="panel-stat">
+          <span class="stat-number">11</span>
+          <span class="stat-label">anexos de referencia</span>
+        </div>
+        <div class="panel-levels" aria-hidden="true">
+          <span class="mini-dot" style="background:#7FA37F">A1</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#6FA8A0">A2</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#5B7DB1">B1</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#2B3A67">B2</span>
+          <span class="mini-line"></span>
+          <span class="mini-dot" style="background:#8B4B6B">C1</span>
+        </div>
+        <div id="hero-progress" class="hero-progress"></div>
+      </aside>
+    </div>
+  </section>
 
-| Inglés | Español |
-|---|---|
-| To decrease / decline | Disminuir |
-| To drop / fall | Caer |
-| To plummet | Desplomarse (caída fuerte) |
-| To bottom out | Tocar fondo |
+  <!-- ============ LEVELS ============ -->
+  <section id="niveles" class="levels-map">
+    <div class="section-head">
+      <span class="section-num">01 · El recorrido</span>
+      <h2>Seis niveles, un solo camino</h2>
+    </div>
+    <div id="levels-track" class="levels-track">
+      <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
+      <div class="skeleton-row"></div>
+    </div>
+  </section>
 
-## Verbos de estabilidad
+  <!-- ============ METHOD (new value section) ============ -->
+  <section id="metodo" class="method-band">
+    <div class="section-head">
+      <span class="section-num">02 · Cómo estudiar</span>
+      <h2>Un método, no solo teoría</h2>
+    </div>
+    <div class="method-grid">
+      <article class="method-card">
+        <span class="method-num">1</span>
+        <h3>Lee la teoría</h3>
+        <p>Cada lección explica el concepto en español claro, con tablas y mapas conceptuales que muestran cómo se conecta todo.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">2</span>
+        <h3>Estudia los ejemplos</h3>
+        <p>Ejemplos reales con traducción y transcripción IPA en palabras difíciles. Léelos en voz alta: el oído también aprende.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">3</span>
+        <h3>Haz la práctica</h3>
+        <p>Al final de cada lección hay ejercicios con respuestas ocultas. Intenta primero, verifica después.</p>
+      </article>
+      <article class="method-card">
+        <span class="method-num">4</span>
+        <h3>Vuelve y repasa</h3>
+        <p>Tu progreso se guarda en este navegador. Usa la lección aleatoria 🎲 para repaso espaciado: la memoria se construye volviendo.</p>
+      </article>
+    </div>
+  </section>
 
-| Inglés | Español |
-|---|---|
-| To remain stable | Permanecer estable |
-| To level off | Estabilizarse (tras subir/bajar) |
-| To fluctuate | Fluctuar |
+  <!-- ============ ANEXOS ============ -->
+  <section id="anexos" class="anexos-teaser">
+    <div class="section-head">
+      <span class="section-num">03 · Consulta rápida</span>
+      <h2>Anexos de referencia</h2>
+    </div>
+    <div id="anexos-track" class="anexos-track">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
+  </section>
+</main>
 
-## Adverbios para matizar la intensidad
+<footer class="site-footer">
+  <p class="footer-credit">Basado en <em>"Domina la Gramática Inglesa"</em> · Jesus Dayan Trigos</p>
+</footer>
 
-| Adverbio | Uso |
-|---|---|
-| sharply / dramatically | fuertemente, drásticamente |
-| slightly | ligeramente |
-| gradually | gradualmente |
-| steadily | de forma constante |
-
-## En contexto
-
-> *Sales **increased sharply** in the first quarter.*
-> *The unemployment rate **fluctuated** throughout the year.*
-> *Prices **rose gradually** over the past decade.*
-
-## Consejos de pronunciación
-
-- **Plummet** /ˈplʌmɪt/.
-- **Fluctuate** /ˈflʌktʃueɪt/.
-
-## Práctica
-
-Describe una tendencia (ficticia o real) usando al menos 4 verbos y 2 adverbios de esta lista.
+<script src="app.js?v=6" defer></script>
+</body>
+</html>
